@@ -98,8 +98,7 @@ Id,Label,Type,Weight
 @bancopromerica,@bancopromerica,Undirected,1
 @bancorepublica,@bancorepublica,Undirected,6
 @bancosantander,@bancosantander,Undirected,1
-@bancosaval,@bancosaval,Undirected,3
-@bancosaval:,@bancosaval:,Undirected,3
+@bancosaval,@bancosaval,Undirected,6
 @barrile37043017,@barrile37043017,Undirected,1
 @bascobscd,@bascobscd,Undirected,1
 @bbva,@bbva,Undirected,6
@@ -182,7 +181,7 @@ Id,Label,Type,Weight
 @contesta_tario,@contesta_tario,Undirected,1
 @convergenza12,@convergenza12,Undirected,1
 @cooservunal,@cooservunal,Undirected,1
-@corbeta.com.co,@corbeta.com.co,Undirected,1
+@corbetacomco,@corbetacomco,Undirected,1
 @cosmodakitten,@cosmodakitten,Undirected,1
 @credibanco_,@credibanco_,Undirected,1
 @cristalrealm,@cristalrealm,Undirected,1
@@ -212,8 +211,7 @@ Id,Label,Type,Weight
 @daviempleo,@daviempleo,Undirected,1
 @daviescucha,@daviescucha,Undirected,11
 @daviplata,@daviplata,Undirected,121
-@davivienda,@davivienda,Undirected,1096
-"@davivienda,","@davivienda,",Undirected,7
+@davivienda,@davivienda,Undirected,1103
 @davivienda_pan,@davivienda_pan,Undirected,1
 @ddom1975,@ddom1975,Undirected,2
 @defensoria_910,@defensoria_910,Undirected,3
@@ -295,7 +293,7 @@ Id,Label,Type,Weight
 @esteesmitweet,@esteesmitweet,Undirected,1
 @estella92,@estella92,Undirected,2
 @eticketcol,@eticketcol,Undirected,2
-@extratiempoco.,@extratiempoco.,Undirected,1
+@extratiempoco,@extratiempoco,Undirected,1
 @ez2000co,@ez2000co,Undirected,2
 @faber_acuria,@faber_acuria,Undirected,2
 @fabiofernandoh1,@fabiofernandoh1,Undirected,2
@@ -493,8 +491,7 @@ Id,Label,Type,Weight
 @lalocuracrece,@lalocuracrece,Undirected,1
 @lamaizita,@lamaizita,Undirected,1
 @langarita2,@langarita2,Undirected,1
-@larepublica_co,@larepublica_co,Undirected,1
-"@larepublica_co,","@larepublica_co,",Undirected,1
+@larepublica_co,@larepublica_co,Undirected,2
 @lasihuanaba1,@lasihuanaba1,Undirected,1
 @lasillavacia,@lasillavacia,Undirected,1
 @lauraggils,@lauraggils,Undirected,6
@@ -639,7 +636,7 @@ Id,Label,Type,Weight
 @notengandudaque,@notengandudaque,Undirected,2
 @noticia_lopez65,@noticia_lopez65,Undirected,2
 @noticiascaracol,@noticiascaracol,Undirected,1
-"@noticiascaracoltv,","@noticiascaracoltv,",Undirected,1
+@noticiascaracoltv,@noticiascaracoltv,Undirected,1
 @noticiasrcn,@noticiasrcn,Undirected,22
 @ntcoral,@ntcoral,Undirected,3
 @nubank,@nubank,Undirected,3
@@ -675,7 +672,7 @@ Id,Label,Type,Weight
 @perroacuadros,@perroacuadros,Undirected,1
 @petangelscol,@petangelscol,Undirected,1
 @petrogustavo,@petrogustavo,Undirected,10
-@piedadcordoba.,@piedadcordoba.,Undirected,1
+@piedadcordoba,@piedadcordoba,Undirected,1
 @pikhq,@pikhq,Undirected,1
 @pilarvelasquezv,@pilarvelasquezv,Undirected,1
 @pinnktomatte,@pinnktomatte,Undirected,1
@@ -730,7 +727,7 @@ Id,Label,Type,Weight
 @rubenpinzonhdez,@rubenpinzonhdez,Undirected,1
 @rubiapsicologa,@rubiapsicologa,Undirected,2
 @ruta_n,@ruta_n,Undirected,5
-"@s,","@s,",Undirected,1
+@s,@s,Undirected,1
 @sabaezd,@sabaezd,Undirected,1
 @sago2022,@sago2022,Undirected,4
 @sagoatehortua,@sagoatehortua,Undirected,1
@@ -776,8 +773,8 @@ Id,Label,Type,Weight
 @soycaste,@soycaste,Undirected,1
 @soylinapordios,@soylinapordios,Undirected,1
 @srt_toloza,@srt_toloza,Undirected,1
-@ssf.gob.sv,@ssf.gob.sv,Undirected,2
 @ssf_elsalvador,@ssf_elsalvador,Undirected,6
+@ssfgobsv,@ssfgobsv,Undirected,2
 @ssociedades,@ssociedades,Undirected,1
 @stanleyoly,@stanleyoly,Undirected,1
 @subirath,@subirath,Undirected,1
