@@ -1,0 +1,3069 @@
+,Texto,Ent,tweet_id
+0, Davivienda ,ORG,0
+1, noviembre ,DATE,0
+2, cinco meses ,DATE,0
+3, la última semana del mes ,DATE,0
+4, 1 ,CARDINAL,0
+5, 7 ,CARDINAL,0
+6, 19 ,CARDINAL,0
+0, Banco Cuscatlán ,ORG,1
+1, Banco Fedecrédito ,ORG,1
+2, Davivienda ,ORG,1
+3, Bancoagrícola ,ORG,1
+4, Banco Promerica ,ORG,1
+0, varios días ,DATE,2
+0, toda una semana ,DATE,3
+1, 2 ,CARDINAL,3
+2, 2 ,CARDINAL,3
+0, 400 ,MONEY,4
+1, 000 pesos ,MONEY,4
+2, 10 ,CARDINAL,4
+3, . ,CARDINAL,4
+4, 000 ,CARDINAL,4
+5, 3 ,CARDINAL,4
+6, 8 ,CARDINAL,4
+0,,ORG,5
+1, Banco Davivienda ,ORG,5
+2, Davivienda ,ORG,5
+3, 30 nov . ,DATE,5
+4, Margarita Henao ,PERSON,5
+5, DaviPlata ,ORG,5
+0, Becas al Talento de ,EVENT,6
+0, más de 3 meses ,DATE,8
+1, WhatsApp ,ORG,8
+2, cientos ,CARDINAL,8
+0, 2000 - 2010 ,DATE,9
+1, Bavaria ,ORG,9
+2, Coltabaco ,ORG,9
+3, Grupo Sura ,ORG,9
+4, Grupo Argos ,ORG,9
+5, Bancolombia ,ORG,9
+6, Nutresa ,ORG,9
+7, Éxito ,ORG,9
+8, Banco de Occidente ,ORG,9
+9, Banco de Bogotá ,ORG,9
+10, Grupo Aval ,ORG,9
+11, Celsia ,ORG,9
+12, ISA ,ORG,9
+13, Ecopetrol ,ORG,9
+14, GEB ,ORG,9
+15, Davivienda ,ORG,9
+16, 2021 - 2030 ,DATE,9
+17, Andres Palacios ,PERSON,9
+18, Palacios_Andres ,PERSON,9
+19, 30 nov . ,DATE,9
+20, 2000 ,DATE,9
+21, Willian Vinasco ,PERSON,9
+22, Adolfo Perez ,PERSON,9
+23, 1 ,CARDINAL,9
+24, 1 ,CARDINAL,9
+25, 6 ,CARDINAL,9
+0, toda la mañana ,TIME,11
+1, PSE ,ORG,11
+2, 2 ,CARDINAL,11
+0, DaviPlata ,ORG,12
+1, RappiPay ,ORG,12
+2, Davivienda ,ORG,12
+3, 2 ,CARDINAL,12
+0, noviembre ,DATE,13
+1, noviembre ,DATE,13
+0, Bancolombia ,ORG,14
+0, Cotrafa ,ORG,16
+1, Davivienda ,ORG,16
+2, Banco Popular ,ORG,16
+0, PSE ,ORG,17
+1, 5 ,CARDINAL,17
+2, 4 ,CARDINAL,17
+0, 2 ,CARDINAL,19
+0, Davivienda ,PERSON,20
+1, DavidFlorezMP ,PERSON,20
+0, 4 ,CARDINAL,21
+0, Juan Tennant Wright ,PERSON,23
+1, US $ 1 millón ,MONEY,23
+2, Antonio Salaverría ,PERSON,23
+3, Juan Tennant Wright ,PERSON,23
+4, US $ 1 millón ,MONEY,23
+5, Antonio Salaverría ,PERSON,23
+6, Juan Tennant Wright ,PERSON,23
+7, 1 ,CARDINAL,23
+0, Colombia ,GPE,24
+1, la ,DATE,24
+2, quincena ,DATE,24
+3, Davivienda ,ORG,24
+4, DaviPlata ,ORG,24
+5, Bancolombia ,ORG,24
+6, Nequi ,ORG,24
+0, SebastianRegino ,PERSON,25
+1, 3 ,CARDINAL,25
+2, 1 ,CARDINAL,25
+0, 3 ,CARDINAL,26
+0, El Equipo de Estudios Económicos del # GrupoBolívar ,ORG,27
+1, colombiano ,NORP,27
+2, noviembre de 2021 ,DATE,27
+3, Colombia ,GPE,27
+4, El Equipo de Estudios Económicos del Grupo Bolívar ,ORG,27
+5, colombiano ,NORP,27
+6, 1 ,CARDINAL,27
+7, 1 ,CARDINAL,27
+0, 1 ,CARDINAL,28
+1, 3 ,CARDINAL,28
+0, PSE ,ORG,30
+1, Davivienda ,ORG,30
+2, Davivienda ,ORG,30
+3, 2 ,CARDINAL,30
+4, 2 ,CARDINAL,30
+0, Davivienda ,ORG,31
+1, Bancolombia ,ORG,31
+2, 1 ,CARDINAL,31
+3, 1 ,CARDINAL,31
+0, la 1pm ,TIME,32
+0, Antioquia ,GPE,33
+1, Bogota ,GPE,33
+2, 2 ,CARDINAL,33
+0, Volarte ,ORG,36
+1, Davivienda ,ORG,36
+2, séptima ,ORDINAL,36
+3, Beethoven ,FAC,36
+4, Davivienda ,ORG,36
+5, Volarte ,ORG,36
+6, Inspiraciones del alma ,WORK_OF_ART,36
+7, Noticias de El Salvador ,ORG,36
+8, 7 ,ORDINAL,36
+9, ° ,ORDINAL,36
+10, Beethoven ,FAC,36
+11, 1 ,CARDINAL,36
+12, 2 ,CARDINAL,36
+0, Bcsc ,ORG,37
+0, Davivienda ,ORG,38
+0, Davivienda ,ORG,39
+1, Davivienda ,ORG,39
+2, 3 pm ,TIME,39
+0, ayer ,DATE,41
+1, primero ,ORDINAL,41
+2, Bancolombia ,ORG,41
+0, AlvaroUribeVel ,PERSON,42
+1, Macías ,PERSON,42
+0, el día 30 de octubre ,DATE,44
+1, mil ,CARDINAL,44
+2, 15 días ,DATE,44
+3, 2 ,CARDINAL,44
+0, Buenas tardes ,TIME,46
+1, más de 10 . 000 ,CARDINAL,46
+2, DaviPlata ,ORG,46
+0, horas después ,TIME,47
+1, uno ,CARDINAL,47
+0, WhitneyMeneses ,ORG,50
+1, TuCivica ,ORG,50
+2, uno ,CARDINAL,50
+3, Cívica Pay ,ORG,50
+0, Willington Ortíz ,PERSON,51
+0, Davivienda ,ORG,52
+1, Unicentro ,ORG,52
+2, 1 ,CARDINAL,52
+3, 1 ,CARDINAL,52
+0, tres días ,DATE,53
+1, 3 ,CARDINAL,53
+2, 3 ,CARDINAL,53
+0, 3 ,CARDINAL,54
+1, 9 ,CARDINAL,54
+0, Davivienda ,PERSON,55
+0, 5 ,CARDINAL,56
+0, Davivienda ,PRODUCT,57
+0, séptimo año consecutivo ,DATE,59
+1, salvadoreño ,NORP,59
+2, plaza Argentina ,FAC,59
+3, Fuentes Beethoven ,FAC,59
+0,,CARDINAL,60
+1, . ,CARDINAL,60
+2, la Rueda de Negocios del Sector Transporte ,ORG,60
+3, Bancoldex ,ORG,60
+4, Davivienda ,ORG,60
+5, BancodeBogota ,ORG,60
+6, BancoPichincha ,ORG,60
+7, más de 140 ,CARDINAL,60
+8, 1 ,CARDINAL,60
+9, 2 ,CARDINAL,60
+10, 3 ,CARDINAL,60
+0, 6 años ,DATE,61
+0, 3 ,CARDINAL,62
+0, Banco Davivienda ,ORG,63
+1, 2 ,CARDINAL,63
+2, DaviPlata ,ORG,63
+0, PSE ,ORG,64
+0,,ORG,67
+1, Colombia ,GPE,67
+2, Canadá ,GPE,67
+3, noticiasdecolombia ,ORG,67
+4, Davivienda Corredores ,ORG,67
+5, Colombia ,GPE,67
+6, Canadá ,GPE,67
+7, Noticias de Colombia ,ORG,67
+8, Mineros S . A . ,ORG,67
+9, la Bolsa de Valores de Colombia ,ORG,67
+10, BVC ,ORG,67
+11, 1 ,CARDINAL,67
+12, 1 ,CARDINAL,67
+0, Davivienda ,ORG,68
+1, colombiano ,NORP,68
+2, el periodo ,DATE,68
+3, enero - octubre 2021 ,DATE,68
+4, Finagro ,ORG,68
+5, 2 ,CARDINAL,68
+6, 3 ,CARDINAL,68
+0, Davivienda ,ORG,69
+1, 2 ,CARDINAL,69
+2, 1 ,CARDINAL,69
+0,,ORG,71
+1, $ 101 mil millones ,MONEY,71
+2, el primer trimestre de 2021 ,DATE,71
+3, Banco Davivienda ,ORG,71
+4, 2 ,CARDINAL,71
+5, Buenos días ,DATE,71
+0,,ORG,76
+1, Colombia ,GPE,76
+2, Canadá ,GPE,76
+3, Davivienda Corredores ,ORG,76
+4, Colombia ,GPE,76
+5, Canadá ,GPE,76
+0, Banca ,ORG,77
+1, Colombianos ,NORP,77
+2, Hoy ,DATE,77
+3, 2 de diciembre ,DATE,77
+4, las 10 am ,TIME,77
+5, Maria Camila Diaz ,PERSON,77
+6, Banco Agrario y Davivienda ,ORG,77
+0, Davivienda ,ORG,78
+1, Efraín Forero ,PERSON,78
+2, Davivienda ,ORG,78
+3, 1 ,CARDINAL,78
+4, 11 ,CARDINAL,78
+0, 3M ,CARDINAL,83
+1, 15 días ,DATE,83
+0, este mes ,DATE,84
+1, PSE ,ORG,84
+2, PSE ,ORG,84
+0, 2 ,CARDINAL,85
+0, Centro Empresarial y de Negocios Green Hills de # Tunja NUNCA ,ORG,86
+1, 1 ,CARDINAL,86
+0, 2 ,CARDINAL,87
+1, 2 ,CARDINAL,87
+0, Davivienda ,ORG,89
+0, JavierJMED ,PERSON,90
+1, Davivienda ,PERSON,90
+2, Bancolombia ,ORG,90
+0, esta hora del día ,TIME,92
+1, 220 ,MONEY,92
+2, 000 pesos ,MONEY,92
+0, Atlántida ,LOC,93
+0, JoseleOso ,PERSON,94
+1, BBVA ,ORG,94
+2, 2 ,CARDINAL,94
+3, 2 ,CARDINAL,94
+0, la Universidad Autónoma de Occidente ,ORG,96
+1, Cali ,GPE,96
+2, meses ,DATE,96
+0, 4X 1 ,MONEY,97
+1, . ,CARDINAL,97
+2, 000 ,CARDINAL,97
+0, LeopoldoDuarteC ,PERSON,98
+1, Leopoldo ,PERSON,98
+2, Bancolombia ,ORG,98
+3, Davivienda ,ORG,98
+4, Nequi ,ORG,98
+5, Daviplata ,ORG,98
+0, Pffff ,ORG,99
+1, cada quincena ,DATE,99
+0, Banco de Bogotá ,ORG,100
+1, Davivienda ,ORG,100
+2, Itaú ,ORG,100
+3, Banco de Bogotá ,ORG,100
+0, 2 ,CARDINAL,101
+0, Buenos días ,DATE,103
+1, Bosa ,PERSON,103
+0, Davivienda ,ORG,104
+1," Inspiraciones del Alma "" ",WORK_OF_ART,104
+2, Volarte ,ORG,104
+3, Fuentes Beethoven ,FAC,104
+4, Davivienda ,ORG,104
+5, Volarte ,ORG,104
+6, Inspiraciones del Alma ,WORK_OF_ART,104
+7, 2021 ,DATE,104
+8, 63 ,CARDINAL,104
+9, salvadoreños ,NORP,104
+10, Argentina ,FAC,104
+11, 1 ,CARDINAL,104
+12, 2 ,CARDINAL,104
+0, toda la mañana ,TIME,105
+0, 2 ,CARDINAL,107
+0, Bancolombia ,ORG,108
+0, más de 15 días ,DATE,110
+1, 2 días ,DATE,110
+2, 30 mil pesos ,MONEY,110
+0, este año ,DATE,111
+0, Ivan_abc ,PERSON,113
+1, GermanCrstancho ,PERSON,113
+2, Ivan_abc ,PERSON,113
+0, Ivan_abc ,PERSON,114
+1," GermanCrstancho 
+ Hola ",PERSON,114
+2, Ivan_abc ,PERSON,114
+0, Omar Sanchez ,PERSON,115
+0, Andrés ,PERSON,116
+1, 2 ,CARDINAL,116
+2, Fer Uribe ,PERSON,116
+0, OIZuluaga ,PERSON,117
+1, 2 ,CARDINAL,117
+2, 5 ,CARDINAL,117
+3, 14 ,CARDINAL,117
+0, del Ministerio del Interior ,ORG,118
+1, los Ediles de Cali ,ORG,118
+0, más de 20 años ,DATE,119
+1, el Grupo Bolívar Davivienda ,ORG,119
+2, colombiano ,NORP,119
+3, 54 ,CARDINAL,119
+4, 477 ,CARDINAL,119
+5, 11 ,CARDINAL,119
+0, el 14 de diciembre ,DATE,120
+0, Davivienda ,PERSON,128
+1, 1 ,CARDINAL,128
+0, Apple ,ORG,130
+0, Davivienda ,ORG,131
+1, Barranquilla ,GPE,131
+0, Efraín Forero ,PERSON,132
+1, 31 años ,DATE,132
+2, Davivienda ,ORG,132
+3, Efraín Forero ,PERSON,132
+4, Efraín Forero ,PERSON,132
+5, 31 años ,DATE,132
+6, Davivienda ,ORG,132
+7, tercer ,ORDINAL,132
+0, 3 días ,DATE,133
+0,,PERSON,135
+1, Daniel Buritica ́ ,PERSON,135
+2, Daniel ,PERSON,135
+0, uno ,CARDINAL,136
+1, 2 ,CARDINAL,136
+0, 7 ,MONEY,140
+1, 500 pesos ,MONEY,140
+2, 35 ,MONEY,140
+3, 000 pesos ,MONEY,140
+0, Davivienda ,ORG,143
+1, tercer ,ORDINAL,143
+0, Berzota ,PERSON,144
+1, Davivienda ,PERSON,144
+2, Bogotá ,GPE,144
+3, la Plaza de Bolívar ,FAC,144
+4, Bolívar ,GPE,144
+0, más de horas ,TIME,145
+0, 10 ,CARDINAL,146
+1, Davivienda ,ORG,146
+0, el día de hoy ,DATE,147
+0, hoy ,DATE,149
+1, primera ,ORDINAL,149
+0, UDS ,ORG,155
+0, Bancolombia ,ORG,156
+1, 3 ,CARDINAL,156
+2, Bancolombia ,ORG,156
+0, la madrugada ,TIME,157
+0, Jessie_Dlp ,PERSON,158
+0, Davivienda ,ORG,159
+0, 2 horas ,TIME,160
+1, Davivienda ,ORG,160
+2, Miami ,GPE,160
+0, Davivienda ,LOC,161
+0, Bancolombia ,ORG,162
+1, Davivienda ,ORG,162
+0, José Alejandro Cortés ,PERSON,164
+1, Bancafé ,ORG,164
+2, Banco de Bogotá ,ORG,164
+0, Bancolombia ,ORG,165
+0, este año ,DATE,166
+1, la Hackathon Civica Pay ,EVENT,166
+2, 15 - millones ,CARDINAL,166
+3, 11 ,CARDINAL,166
+4, 10 ,CARDINAL,166
+0, Davivienda ,ORG,168
+1, 3 ,CARDINAL,168
+2, uno ,CARDINAL,168
+3, 1 ,CARDINAL,168
+0, las Fuentes Bethoveen ,LOC,169
+1, Col . Escalón ,GPE,169
+2, San Salvador ,GPE,169
+3, 1 ,CARDINAL,169
+4, 2 ,CARDINAL,169
+0, 2 ,CARDINAL,170
+0, Colombianos ,NORP,171
+1, Maria Camila Diaz ,PERSON,171
+2, Banco Agrario ,ORG,171
+3, Davivienda ,ORG,171
+4, 3 ,CARDINAL,171
+5, 2 ,CARDINAL,171
+0, MaribelVasquezJ ,PERSON,172
+1, DaniaGonzalz ,PERSON,172
+2, 3 ,CARDINAL,172
+3, 50 ,MONEY,172
+4, 2 ,CARDINAL,172
+0, JAMÁS ,PERSON,173
+1, JAMÁS ,PERSON,173
+2, 8 días ,DATE,173
+3, 4 ,CARDINAL,173
+0, Nequi ,ORG,174
+1, Bancolombia ,ORG,174
+0, un fin de semana ,DATE,176
+1, Chiquinquirá ,GPE,176
+0, 8 días ,DATE,177
+1, John Valencia ,PERSON,177
+2, 3 ,CARDINAL,177
+3, más de ,DATE,177
+4, 4 días ,DATE,177
+0, los pocos minutos ,TIME,178
+0, Karol_pascuass ,PERSON,180
+0, RommelMoral ,ORG,182
+1, Davivienda ,ORG,182
+2, Siman ,ORG,182
+3, 1 ,CARDINAL,182
+4, 3 ,CARDINAL,182
+0, casi 3 meses después ,DATE,184
+0, Bogotá ,GPE,185
+0, 10 ,CARDINAL,186
+0,,DATE,187
+0, Moneygram ,ORG,188
+1, Bancolombia ,ORG,188
+0, 17 años ,DATE,189
+1, 2 ,CARDINAL,189
+2, 1 ,CARDINAL,189
+0, CancilleriaCol ,ORG,190
+1, Davivienda ,ORG,190
+2, 24 horas ,TIME,190
+0, 4 ,CARDINAL,193
+0, Buen día ,DATE,195
+0, Davivienda ,ORG,196
+1, Davivienda ,ORG,196
+2, hora ,TIME,196
+3, el día lunes ,DATE,196
+0, Ospina ,PERSON,197
+1, 2 ,CARDINAL,197
+0, 0 ,MONEY,199
+1, 79 ,MONEY,199
+2, 4 ,MONEY,199
+0, 4 ,CARDINAL,200
+0, el día de hoy ,DATE,202
+1, 5 : ,TIME,202
+2, 00 am ,TIME,202
+3, 10000 pesos ,MONEY,202
+0, 1 ,CARDINAL,205
+1, 3 ,CARDINAL,205
+0, Davivienda ,ORG,206
+1, 2 ,CARDINAL,206
+0, 43 ,TIME,207
+1, minutos ,TIME,207
+0, decenas ,CARDINAL,212
+1, días ,DATE,212
+0, MovistarCo ,ORG,213
+1, 5 ,CARDINAL,213
+0, 4 ,CARDINAL,214
+1, Hola ,PERSON,214
+2, Juan ,PERSON,214
+0, Diego ,PERSON,215
+0, MovistarCo ,ORG,216
+1, 5 ,CARDINAL,216
+2, medio dia ,TIME,216
+0, un año ,DATE,217
+1, Morat ,PERSON,217
+2, Davivienda de Navidad ,EVENT,217
+3, 2020 ,DATE,217
+4, la Filarmónica Joven de Colombia ,ORG,217
+5, 19 ,CARDINAL,217
+6, 89 ,CARDINAL,217
+0, Davivienda ,PERSON,218
+1, Beethoven ,PERSON,218
+0," Davivienda 
+ de la Pasoancho ",ORG,220
+1, 43 ,CARDINAL,220
+2, Cali ,GPE,220
+3, 4 ,CARDINAL,220
+4, 4 ,CARDINAL,220
+5, 2 ,CARDINAL,220
+0, Bogotá ,GPE,221
+1, Bancolombia ,ORG,221
+2, Davivienda ,ORG,221
+3, Luis Carlos ,PERSON,221
+4, Corficolombiana ,ORG,221
+5, Agroindustria ,ORG,221
+6, Pajonales ,ORG,221
+7, Hoteles Estelar ,ORG,221
+0, septiembre ,DATE,224
+0, San Gil ,GPE,225
+0, Ibagué ,GPE,226
+0, 70 ,CARDINAL,228
+1, . ,CARDINAL,228
+2, 800 ,CARDINAL,228
+3, dos ,CARDINAL,228
+4, Cali ,GPE,228
+0, Davivienda ,ORG,231
+0, Davivienda ,ORG,232
+1, 14 minutos ,TIME,232
+0, FenixUlloaVP ,PERSON,234
+1, 49 ,CARDINAL,234
+2, Salaberria ,PERSON,234
+0, 8 minutos ,TIME,235
+1, 2 ,CARDINAL,235
+0, Luis Alexander ,PERSON,236
+0, John Valencia ,PERSON,237
+0, John Valencia ,PERSON,238
+1, 4 ,CARDINAL,238
+2, 8 días ,DATE,238
+0, DaviPlata ,ORG,239
+0, 2 ,CARDINAL,240
+0, las 08 : 12 pm ,TIME,241
+1, esta hora ,TIME,241
+0, Deiby ,PERSON,242
+0, ManuelVasquez_1 ,PERSON,243
+1, Manuel ,PERSON,243
+0, RoyBarreras ,PERSON,245
+1, Roy ,PERSON,245
+2, Colombianos ,NORP,245
+3, 3 ,CARDINAL,245
+0, 11 ,CARDINAL,246
+0, un año ,DATE,247
+1, Gran concierto ,EVENT,247
+2, Davivienda de Navidad ,EVENT,247
+3, 2020 ,DATE,247
+0, BtcAndres ,ORG,249
+1, Davivienda ,ORG,249
+0, 2 ,CARDINAL,250
+0, estos días ,DATE,251
+1, la semana ,DATE,251
+2, el Gobierno Nacional ,ORG,251
+3, Davivienda ,ORG,251
+4, Colombia Incluyente ,WORK_OF_ART,251
+5, Lea ,PERSON,251
+6, 2 ,CARDINAL,251
+7, 1 ,CARDINAL,251
+0,,PERSON,253
+0, el 2 de diciembre ,DATE,254
+1, 1 ,CARDINAL,254
+2, 1 ,CARDINAL,254
+0, Davivienda ,PERSON,255
+0, una hora ,TIME,257
+0, más de 15 días ,DATE,258
+0, 2 horas ,TIME,259
+0, 3 ,CARDINAL,261
+1, 2 ,CARDINAL,261
+0, dos ,CARDINAL,262
+1, hoy ,DATE,262
+2, Transfiya de Bancolombia ,ORG,262
+0, Bancolombia ,ORG,263
+1, 1 ,CARDINAL,263
+0, 2 ,MONEY,267
+0, Center ,FAC,268
+0, Davivienda ,ORG,269
+0, hace ,DATE,270
+1, 5 días ,DATE,270
+2, años ,DATE,270
+0, Pastrana ,PERSON,274
+1, Juan Camilo Restrepo ,PERSON,274
+2, la Banca Pública de Fomento ,ORG,274
+3, Luis Carlos Sarmiento Ángulo ,PERSON,274
+4, Colombianos ,NORP,274
+0, casi 9 millones de pesos ,MONEY,276
+0, Maaa_masala ,PERSON,277
+1, 2 ,CARDINAL,277
+0, entre 5 - 7 días hábiles ,DATE,279
+1, 9 días hábiles ,DATE,279
+0, Bancos internacionales ,ORG,282
+0, Lauraggils ,PERSON,283
+1, primero ,ORDINAL,283
+0, 5 días ,DATE,284
+0, varias horas ,TIME,286
+0, Santi ,PERSON,287
+1, 13 ,CARDINAL,287
+2, 60 ,CARDINAL,287
+0, Wallet ,ORG,288
+1, Apple ,ORG,288
+2, 2 ,CARDINAL,288
+3, 1 ,CARDINAL,288
+0, MabelLaraNews ,ORG,289
+1, Rochajaramillo ,ORG,289
+2, Avianca ,ORG,289
+3, Avianca ,ORG,289
+4, Davivienda ,ORG,289
+5, 2 ,CARDINAL,289
+0, Bogotá ,GPE,291
+0, siglo 21 ,DATE,294
+0, 4 ,CARDINAL,295
+1, Germán ,PERSON,295
+0, más de 4 meses ,DATE,296
+1, Bancolombia ,ORG,296
+0, ToroDeArena ,ORG,297
+1, ARENAALFA ,ORG,297
+2, 2 ,CARDINAL,297
+3, Davivienda ,ORG,297
+4, Argos ,ORG,297
+5, Sura ,ORG,297
+0, Apple Wallet ,PRODUCT,298
+1, Enero 2022 ,DATE,298
+2, RappiCard ,PRODUCT,298
+3, Apple Pay ,ORG,298
+4, 1 ,CARDINAL,298
+5, 2 ,CARDINAL,298
+0, JohanTriana ,PERSON,300
+1," Davivienda 
+ Hola Johan ",PERSON,300
+0, más de un año ,DATE,301
+0, SegurosBolivar ,PERSON,302
+1, Davivienda ,PERSON,302
+2, SegurosBolivar ,PERSON,302
+3, Davivienda ,PERSON,302
+4, Guardiola ,PERSON,302
+0,,ORG,303
+1, Davivienda ,ORG,303
+2, 4 ,CARDINAL,303
+3, 10 ,CARDINAL,303
+4, 43 ,CARDINAL,303
+0,,DATE,305
+1, Davivienda ,PERSON,305
+2, Bancolombia ,GPE,305
+0, Atlántida ,ORG,306
+1, Davivienda ,ORG,306
+2, 2 ,CARDINAL,306
+3, 9 ,CARDINAL,306
+0,,DATE,307
+1, 2021 ,DATE,307
+2, Davivienda Corredores ,ORG,307
+0,,PERSON,309
+0, Davivienda ,ORG,310
+0, Davivienda ,GPE,311
+1, Bancolombia ,GPE,311
+2, 13 ,CARDINAL,311
+3, 6 ,CARDINAL,311
+0, 2 ,CARDINAL,313
+1, 2 ,CARDINAL,313
+2, 2 ,CARDINAL,313
+0, Navidad ,EVENT,315
+1, salvadoreños ,NORP,315
+0, Davivienda ,ORG,316
+0, Colombianos ,NORP,318
+1, Maria Camila Diaz ,PERSON,318
+2, Banco Agrario ,ORG,318
+3, Davivienda ,ORG,318
+0, 2 ,CARDINAL,319
+1, 1 ,CARDINAL,319
+2, 1 ,CARDINAL,319
+0, este año ,DATE,320
+1, un año ,DATE,320
+0, hace más de 2 horas ,TIME,322
+1, 1 ,CARDINAL,322
+0,,PERSON,324
+1, Navidad ,EVENT,324
+2, salvadoreños ,NORP,324
+3, 1 ,CARDINAL,324
+4, 1 ,CARDINAL,324
+0, casi ,DATE,326
+1, 15 días ,DATE,326
+0, AWS ,ORG,327
+1, Amazon ,ORG,327
+0, el ,DATE,328
+1, cuatro ,CARDINAL,328
+0, más de una hora ,TIME,329
+1, segunda ,ORDINAL,329
+0, Colombia ,GPE,335
+0, 1 ,CARDINAL,336
+1, 4 ,CARDINAL,336
+0, Tomas Nequi ,PERSON,337
+1, Nequi ,PERSON,337
+2, Davivienda ,GPE,337
+3, Nequi ,GPE,337
+4, Bancolombia ,GPE,337
+0, Navidad ,DATE,340
+1, 3 kilómetros ,QUANTITY,340
+2, Paseo General Escalón ,FAC,340
+3, el Redondel Fuentes Beethoven ,FAC,340
+0, Davivienda ,ORG,341
+1, 3 ,CARDINAL,341
+0, colombiana ,NORP,343
+0, Banco ,ORG,344
+0, el Fondo de Inversión de Davivienda ,ORG,345
+1, Noviembre ,DATE,345
+2, 35 mil pesos ,MONEY,345
+0,,DATE,346
+0, 2 ,CARDINAL,347
+0, Bancolombia ,ORG,348
+0, 15 días ,DATE,350
+1, Davivienda ,ORG,350
+0, Davivienda ,ORG,351
+1, Bancolombia ,ORG,351
+0, NicolasTovarZ ,PERSON,352
+1, 2 ,CARDINAL,352
+2, Hola ,PERSON,352
+3, NicolasTovarZ ,PERSON,352
+0, 3 ,CARDINAL,354
+1, Davivienda ,ORG,354
+0, meses ,DATE,357
+1, 20 ,CARDINAL,357
+0, 2 ,CARDINAL,359
+1, Apple ,ORG,359
+2, Wallet ,ORG,359
+3, Rappi ,PERSON,359
+4," enero 
+ 1 ",DATE,359
+0, Pinnktomatte ,PRODUCT,360
+1, DaviPlata ,PRODUCT,360
+2, la última semana ,DATE,360
+0, DaviPlata ,ORG,362
+1, FiscaliaCol ,ORG,362
+0, DaviPlata ,ORG,364
+0, salvadoreños ,NORP,365
+1, casi 3 kilómetros ,QUANTITY,365
+2, el Paseo General Escalón ,FAC,365
+3, Navidad ,EVENT,365
+4, salvadoreños ,NORP,365
+5, casi 3 kilómetros ,QUANTITY,365
+0, MovistarCo ,ORG,366
+1, 5 ,CARDINAL,366
+0, AlvaroaLlanos ,PERSON,367
+1, JorgeIvanOspina ,PERSON,367
+2, 3 ,CARDINAL,367
+0, primero ,ORDINAL,368
+1, 3 ,CARDINAL,368
+2, 18 ,CARDINAL,368
+0, Davivienda ,ORG,370
+1, El Salvador ,GPE,370
+2, 2 ,CARDINAL,370
+3, 9 ,CARDINAL,370
+0, Rappi ,ORG,373
+1, 1 % ,PERCENT,373
+2, Av Villas Mastercard ,ORG,373
+3, 1 ,CARDINAL,373
+4, 0 ,CARDINAL,373
+5, 4 ,CARDINAL,373
+0, inicios de año ,DATE,374
+1, una semana ,DATE,374
+2, 40 millones de pesos ,MONEY,374
+0, Alfonso Trujillo ,PERSON,379
+1, Navidad ,EVENT,379
+0," Davivienda 
+ John Titor ",ORG,381
+1, JohnTheKidUS ,ORG,381
+2, 7 ,CARDINAL,381
+3, Colombia ,GPE,381
+0, Davivienda ,ORG,382
+1, 17 millones de pesos ,MONEY,382
+2, 1 ,CARDINAL,382
+3, 2 ,CARDINAL,382
+0, LaJoven ,PERSON,383
+1, Gran Concierto Davivienda de Navidad ,EVENT,383
+2, este 11 de diciembre ,DATE,383
+3, las 5 : ,TIME,383
+4, 00 p . m . ,TIME,383
+0, 2 ,CARDINAL,384
+1, 3 ,CARDINAL,384
+2, 3 ,CARDINAL,384
+0, un año ,DATE,385
+1, 1 ,CARDINAL,385
+0, séptimo año consecutivo ,DATE,386
+1, casi los 3 kilómetros ,QUANTITY,386
+2, el Paseo General Escalón ,FAC,386
+3, 1 ,CARDINAL,386
+0, 72 horas ,TIME,387
+0, el día de ayer ,DATE,389
+0, 1 ,CARDINAL,390
+1, 2 ,CARDINAL,390
+0, uno ,CARDINAL,391
+1, 220 ,MONEY,391
+2, 000 ,MONEY,391
+3, más de una semana ,DATE,391
+4, primera ,ORDINAL,391
+5, 1 ,CARDINAL,391
+6, 2 ,CARDINAL,391
+0, la noche anterior ,TIME,392
+1, el día de hoy ,DATE,392
+2, Paypal ,ORG,392
+3, 826 ,CARDINAL,392
+4, . ,CARDINAL,392
+5, 464 ,CARDINAL,392
+6, Paypal Charles ,ORG,392
+0, una semana ,DATE,393
+0, Banco Davivienda ,ORG,394
+1, Navidad ,EVENT,394
+2, Paseo General Escalón ,FAC,394
+3, Unión Europea ,FAC,394
+4, Fuentes Beethoven ,FAC,394
+5, Davivienda ,ORG,394
+6, salvadoreños ,NORP,394
+7, Banco Davivienda ,ORG,394
+8, Navidad ,EVENT,394
+9, Paseo General Escalón ,FAC,394
+10, Unión Europea ,FAC,394
+11, Fuentes ,FAC,394
+0, Davivienda ,ORG,397
+0, JBALVIN ,PERSON,398
+1, Cali ,GPE,398
+0, el 2015 ,DATE,400
+1, Scotiabankcolpatria ,ORG,400
+2, Citi ,ORG,400
+3, el 88 ,DATE,400
+0, Bancolombia ,ORG,401
+1, 15 años ,DATE,401
+2, Davivienda ,ORG,401
+3, BancodeBogota ,ORG,401
+0, 1 ,CARDINAL,402
+1, 2 ,CARDINAL,402
+0, 2 ,CARDINAL,404
+0, varios días ,DATE,405
+0, 3 ,CARDINAL,406
+0, Apple ,ORG,407
+0, Apple Pay ,ORG,408
+1, MacCenter ,ORG,408
+2, 1 ,CARDINAL,408
+3, 3 ,CARDINAL,408
+0, 2 días ,DATE,413
+0, Jesús ,PERSON,416
+0, Colombia ,GPE,417
+1, 3 - 25 ,CARDINAL,417
+0, Berzota ,ORG,418
+1, SFCsupervisor ,ORG,418
+2, Buenas tardes ,TIME,418
+0, Arelis Uriana ,PERSON,419
+1, 2023 ,DATE,419
+2, Saade ,ORG,419
+3, Davivienda ,ORG,419
+4, Roy ,PERSON,419
+5, Romero ,PERSON,419
+6, cuatro años ,DATE,419
+7, Petro ,PERSON,419
+0, primer ,ORDINAL,420
+1, 30 ,MONEY,420
+2, 000 ,MONEY,420
+0, 4 ,CARDINAL,421
+0, Catalina Alba ,PERSON,422
+1, 9 ,CARDINAL,422
+0, Mamita ,PERSON,423
+0,,TIME,424
+1, el Banco Davivienda ,FAC,424
+2, del Parque Fundadores ,FAC,424
+3, José Manuel Ríos ,PERSON,424
+4, 9 ,CARDINAL,424
+5, Antonio Nariño ,LOC,424
+6, Gibraltar ,GPE,424
+0, Alfredo Saade ,PERSON,426
+1, 3 ,CARDINAL,426
+0, un mes ,DATE,427
+0,,ORG,428
+1, Honduras ,GPE,428
+2, LatamDigital 2021 ,WORK_OF_ART,428
+0, Davivienda ,PERSON,430
+1, 2 semanas ,DATE,430
+2, 1 ,CARDINAL,430
+0, 300 ,CARDINAL,431
+1, 2 minuto ,TIME,431
+0, Davivienda ,ORG,433
+1, 1 ,CARDINAL,433
+0, 1 ,CARDINAL,435
+1, 2 ,CARDINAL,435
+0, Grupo Bolivar ,ORG,437
+1, BVC ,ORG,437
+2, Pf Davivienda ,ORG,437
+3, ISA ,ORG,437
+4, Pf Aval ,ORG,437
+5, Ecopetrol ,ORG,437
+6, Corficol ,ORG,437
+7, Mineros ,ORG,437
+8, 1 ,CARDINAL,437
+9, 1 ,CARDINAL,437
+10, 2 ,CARDINAL,437
+0, qué siglo ,DATE,439
+0, memisfranco ,PERSON,440
+0, las 6 : ,TIME,441
+1, 01 ,TIME,441
+0, una época del año ,DATE,442
+1, 1 ,CARDINAL,442
+2, 1 ,CARDINAL,442
+0, 8 días ,DATE,444
+0, Catalba ,ORG,446
+1, Davivienda ,ORG,446
+2, 4 ,CARDINAL,446
+0, jueves 9 de diciembre 2021 ,DATE,447
+1, 12 ,TIME,447
+2, 25 del medio día ,TIME,447
+0, Davivienda ,ORG,448
+0, Davivienda ,PERSON,452
+0, 1 ,CARDINAL,454
+0, Catalba ,ORG,455
+1, Davivienda ,ORG,455
+2, 1 ,CARDINAL,455
+3, 5 ,CARDINAL,455
+0, hoy ,DATE,458
+1, este año ,DATE,458
+0, BancosAval ,ORG,462
+1, Davivienda ,ORG,462
+0, más de 7 mil pesos ,MONEY,465
+0, Cajica ,GPE,471
+0, Norida ,PERSON,473
+0, Davivienda ,ORG,476
+0, Luis Carrasco ,PERSON,477
+0, Carolina Carrasco ,PERSON,478
+0, 4 ,CARDINAL,479
+1, 4 ,CARDINAL,479
+0, Bancolombia ,ORG,480
+1, 10 ,CARDINAL,480
+2, 3 ,CARDINAL,480
+3, 16 ,CARDINAL,480
+0, 20 ,CARDINAL,481
+1, . ,CARDINAL,481
+2, 000 ,CARDINAL,481
+3, 14 ,CARDINAL,481
+0, Maribel Vásquez ,PERSON,482
+1, MaribelVasquezJ ,PERSON,482
+2, 10 ,CARDINAL,482
+3, Buenos días ,DATE,482
+4, 100 ,MONEY,482
+5, más de $ 1000 ,MONEY,482
+6, 5 ,CARDINAL,482
+0, 7 ,CARDINAL,484
+1, . ,CARDINAL,484
+2, 500 ,CARDINAL,484
+0, 2 ,CARDINAL,485
+0, JulioCesarOlay8 ,PERSON,487
+1, CathyJuvinao ,PERSON,487
+0,,ORG,489
+1, 395 Mil MM ,MONEY,489
+2, 11 ,PERCENT,489
+3, 5 % ,PERCENT,489
+4, Ricardo Jorge ,PERSON,489
+5, 2 ,CARDINAL,489
+6, 5 ,CARDINAL,489
+0, 11 ,CARDINAL,491
+1, 5 : ,TIME,491
+2, 00 P . M . POR ,TIME,491
+3, este - sabado ,DATE,491
+4, 11 - de - diciembre ,DATE,491
+5, 500 - p - m ,QUANTITY,491
+6, caracol ,ORG,491
+7, NoticiasCaracol ,ORG,491
+8, CaracolTV ,ORG,491
+0, mañana ,TIME,492
+1, las 5 : 00 p . m . ,TIME,492
+2, Gran Concierto Davivienda de Navidad ,EVENT,492
+3, 2021 ,DATE,492
+4, Andrés Cepeda ,PERSON,492
+5, 5 ,CARDINAL,492
+0, Wilson ,PERSON,493
+1, Davivienda ,ORG,493
+2, 9 ,CARDINAL,493
+3, hoy ,DATE,493
+4, Davivienda ,ORG,493
+0, dos ,CARDINAL,494
+0,,TIME,496
+1, Colombia ,GPE,496
+2, 2 ,CARDINAL,496
+3, 2 ,CARDINAL,496
+0, la Torre Empresarial Davivienda ,FAC,497
+1, Av el Poblado ,FAC,497
+2, Milla de Oro ,FAC,497
+0, Davivienda ,ORG,498
+0, Robledo ,PERSON,499
+1, Davivienda ,PERSON,499
+2, Petro ,PERSON,499
+3, segunda ,ORDINAL,499
+4, Colombia ,GPE,499
+0, 2 ,CARDINAL,501
+1, Davivienda ,ORG,501
+0, más de 50 minutos ,TIME,503
+1, 10 minutos ,TIME,503
+2, una hora ,TIME,503
+0, Davivienda ,ORG,505
+0, Quintana ,PERSON,506
+0, Diciembre ,DATE,507
+1, BancoFinandina ,ORG,507
+2, Colsubsidio_Ofi ,ORG,507
+3, Davivienda ,ORG,507
+4, 2 ,CARDINAL,507
+5, 2 ,CARDINAL,507
+0, Marcela_Azul ,PERSON,509
+1, JuanitoDuque22 ,PERSON,509
+2, Davivienda ,GPE,509
+0, Davivienda ,ORG,510
+1, lunes ,DATE,510
+2, 5 días hábiles ,DATE,510
+3, el 23 de diciembre ,DATE,510
+4, Davivienda ,ORG,510
+0, 2X2 ,CARDINAL,513
+1, 1 ,CARDINAL,513
+0, diciembre ,DATE,514
+0, 15 días ,DATE,516
+0, Davivienda ,ORG,517
+1, Davivienda ,ORG,517
+0, esta ,TIME,519
+1, 10 días ,DATE,519
+0, una semana ,DATE,520
+0, DaviPlata ,ORG,522
+1, 5 días ,DATE,522
+2, ProsperidadCol ,ORG,522
+3, 2 ,CARDINAL,522
+0,,DATE,525
+1, Davivienda ,ORG,525
+2, dos ,CARDINAL,525
+0, 300 mil pesos ,MONEY,527
+1, Bancolombia ,ORG,527
+2, 15 euros ,MONEY,527
+0, 4 ,CARDINAL,529
+1, 3 ,CARDINAL,529
+2, BancoFinandina ,ORG,529
+3, Colsubsidio_Ofi ,ORG,529
+4, Davivienda ,ORG,529
+5, 2 ,CARDINAL,529
+0, Davivienda ,EVENT,532
+1, Navidad ,DATE,532
+2, 2021 ,DATE,532
+3, CaracolTV ,ORG,532
+4, la Filarmónica Joven de Colombia ,ORG,532
+5, 3 ,CARDINAL,532
+6, 6 ,CARDINAL,532
+7, 60 ,CARDINAL,532
+0, 2 días y 46 min ,DATE,535
+0, Navidad ,EVENT,536
+1, 14 ,CARDINAL,536
+2, 123 ,CARDINAL,536
+0,,CARDINAL,537
+1, Davivienda ,ORG,537
+2, al menos 4 meses ,DATE,537
+0, CaracolTV ,ORG,538
+1, 5 ,CARDINAL,538
+2, 48 ,CARDINAL,538
+0, 5 millones ,MONEY,540
+0, Davivienda ,ORG,541
+0, 2 ,CARDINAL,542
+0, DaviPlata ,ORG,543
+0,,PERSON,544
+0, Ada Worcester ,PERSON,545
+1, today ,DATE,545
+0, hoy ,DATE,546
+1, las 5 : ,TIME,546
+2, 00 p . m . ,TIME,546
+3, Gran Concierto Davivienda de Navidad ,EVENT,546
+4, 2021 ,DATE,546
+5, LaJoven ,PERSON,546
+6, Andrés Cepeda ,PERSON,546
+0, 2 ,CARDINAL,547
+1, 2 ,CARDINAL,547
+0, 0 ,CARDINAL,548
+1, 2 ,CARDINAL,548
+0, 500 pesos ,MONEY,549
+0, dos millones ,MONEY,550
+0, 15 días ,DATE,552
+0, Bueno ,PERSON,553
+0, 6 millones de pesos ,MONEY,554
+0, Davivienda ,ORG,556
+1, 2 ,CARDINAL,556
+0, Davivienda ,PERSON,558
+0, DonKaiser016 ,PERSON,560
+1, 3 ,CARDINAL,560
+2, el 2018 ,DATE,560
+3, BBVA ,ORG,560
+4, ese mismo día ,DATE,560
+5, 8 ,CARDINAL,560
+0, SFCsupervisor ,ORG,565
+1, Davivienda ,ORG,565
+2, casi 23 millones ,MONEY,565
+3, más de 16 millones ,MONEY,565
+4, Banco ,ORG,565
+0, 21 de diciembre ,DATE,566
+0, WintorAbc ,ORG,569
+0, SusanaCorreaBor ,ORG,572
+1, CAMILO ,PERSON,572
+2, Solidario ,ORG,572
+3, DAVIVIENDA ,ORG,572
+0, 1 ,CARDINAL,575
+1, 2 ,CARDINAL,575
+0, el día de ayer ,DATE,576
+1, 96'000 ,MONEY,576
+2, 000 ,MONEY,576
+3, 2 ,CARDINAL,576
+0, EnriquePenalosa ,PERSON,581
+1, Davivienda ,LOC,581
+0, 4 ,CARDINAL,582
+1, CaracolRadio ,ORG,582
+0, 5 ,CARDINAL,584
+0, Banco ,ORG,586
+0, BancodeBogota ,ORG,587
+1, Davivienda ,ORG,587
+2, Davivienda ,ORG,587
+3, Banco de Bogotá ,ORG,587
+4, Banco de Bogotá S . A . ,ORG,587
+5, 1 ,CARDINAL,587
+6, 4 ,CARDINAL,587
+0, 3 ,CARDINAL,588
+0, 2 ,CARDINAL,589
+1, Colombia ,GPE,589
+2, Samsung ,ORG,589
+3, Colombia ,GPE,589
+4, 1 ,CARDINAL,589
+0, este fin de año ,DATE,590
+1, 5 ,CARDINAL,590
+2, 5 ,CARDINAL,590
+3, Ciencuadras ,LOC,590
+4, cinco ,CARDINAL,590
+5, 2 ,CARDINAL,590
+0, 3a ,ORDINAL,591
+1, Cuscatlan y Davivienda ,ORG,591
+2, 3 ,CARDINAL,591
+3, 2 ,CARDINAL,591
+0, Milagro ,PERSON,592
+1, Concierto de Navidad ,EVENT,592
+0, 9 años ,DATE,593
+1, Cepedita ,PERSON,593
+0, 2 ,CARDINAL,594
+0, San Vicente ,GPE,595
+0, más de 15 días ,DATE,596
+0, sábado ,TIME,598
+1, más de 24 ,CARDINAL,598
+0, DaviPlata ,ORG,600
+1, DaviPlata ,ORG,600
+0, Firefox ,ORG,601
+1, Google Chrome ,ORG,601
+0, primera ,ORDINAL,602
+0, Concierto de Navidad ,EVENT,603
+0, Juan Esteban ,PERSON,605
+1, juanes ,NORP,605
+2, 3 ,CARDINAL,605
+0, ClaudiaLopez ,PERSON,612
+0, VillanuevaGuaj ,LOC,614
+1, 100 % ,PERCENT,614
+0, WhatsApp ,ORG,615
+0, Davivienda ,GPE,616
+0, Davivienda ,ORG,617
+1, DaviPlata ,ORG,617
+2, más de 10 días ,DATE,617
+3, 2 ,CARDINAL,617
+0, 5 ,CARDINAL,618
+0, media hora ,TIME,619
+0, un minuto ,TIME,620
+0, 2 ,CARDINAL,622
+1, hace 1 mes ,DATE,622
+2, 2 ,CARDINAL,622
+3, 2 ,CARDINAL,622
+0, Cine Colombia ,ORG,623
+1, Grupo Aval ,ORG,623
+2, Bancolombia ,ORG,623
+3, Rappi ,ORG,623
+4, Mario Hernández ,PERSON,623
+5, Davivienda ,ORG,623
+0, 5 ,CARDINAL,624
+1, mañana ,TIME,624
+0, una semana ,DATE,626
+0, 2 ,CARDINAL,627
+1, 2 ,CARDINAL,627
+2, 2 ,CARDINAL,627
+0, 5 ,CARDINAL,629
+0, 6 ,CARDINAL,630
+0, 2 ,CARDINAL,632
+1, Colombia ,GPE,632
+2, Panamá ,GPE,632
+3, 2 ,CARDINAL,632
+0, Davivienda ,ORG,633
+1, 1500 pesos ,MONEY,633
+0, 2 ,CARDINAL,634
+1, 2 ,CARDINAL,634
+0, 2 ,CARDINAL,635
+1, Cepeda ,PERSON,635
+2, Argentina ,GPE,635
+0, WhatsApp ,ORG,636
+0, más de 500 ,CARDINAL,637
+1, Colombia ,GPE,637
+2, Colombia ,GPE,637
+0, más de 500 ,CARDINAL,638
+1, meses ,DATE,638
+2, Colombia ,GPE,638
+3, 3 ,CARDINAL,638
+4, 2 ,CARDINAL,638
+0, 3 ,CARDINAL,639
+0, 2 ,CARDINAL,640
+1, 4 meses ,DATE,640
+2, 3 ,CARDINAL,640
+0, Panaca ,ORG,641
+1, Davivienda ,ORG,641
+2, Mario Hernández ,PERSON,641
+0, 2 ,CARDINAL,642
+1, 2 ,CARDINAL,642
+2, 1 ,CARDINAL,642
+3, 2 ,CARDINAL,642
+0, 2 ,CARDINAL,643
+1, 2 ,CARDINAL,643
+2, 2 ,CARDINAL,643
+0, 2 ,CARDINAL,645
+0, 2 ,CARDINAL,646
+0, 2 ,CARDINAL,647
+1, 2 meses ,DATE,647
+2, 2 ,CARDINAL,647
+3, 2 ,CARDINAL,647
+0, segunda ,ORDINAL,648
+1, primera ,ORDINAL,648
+0, Edimejia1979 ,PERSON,649
+1, 2 ,CARDINAL,649
+2, 4 mil dólares ,MONEY,649
+3, 3 meses ,DATE,649
+4, 2 ,CARDINAL,649
+5, 2 ,CARDINAL,649
+6, 3 ,CARDINAL,649
+0, 4 ,CARDINAL,650
+1, viernes ,DATE,650
+2, sábado ,DATE,650
+3, domingo ,DATE,650
+4, lunes ,DATE,650
+5, martes ,DATE,650
+6, 2 ,CARDINAL,650
+7, 1 ,CARDINAL,650
+0, 2 ,CARDINAL,651
+1, 3 meses ,DATE,651
+2, 2 ,CARDINAL,651
+0, Christian_4R4 ,PERSON,654
+1, MaoS_777 ,PERSON,654
+2, 2 ,CARDINAL,654
+3, Davivienda ,ORG,654
+4, 3 ,CARDINAL,654
+5, 2 ,CARDINAL,654
+0, jue ,NORP,657
+0, APP ,ORG,658
+1, Davivienda ,GPE,658
+0, 277 mil pesos ,MONEY,659
+1, 4 ,CARDINAL,659
+0, la semana pasada ,DATE,661
+0, AuraCardonafans ,PRODUCT,663
+1, Davivienda ,PRODUCT,663
+2, DaviPlata ,PRODUCT,663
+3, 2 ,CARDINAL,663
+4, 3 ,CARDINAL,663
+0, hace mas de una semana ,DATE,665
+0, Davivienda ,GPE,667
+1, 24 ,CARDINAL,667
+2, 1 ,CARDINAL,667
+0, 3 ,CARDINAL,669
+1, 45min ,TIME,669
+0, una semana ,DATE,670
+0, una semana ,DATE,674
+1, DaviPlata ,PRODUCT,674
+2, WhatsApp ,ORG,674
+0, Salaverria ,PERSON,675
+0, DaviPlata ,ORG,677
+1, 1000 ,MONEY,677
+2, 2000 ,MONEY,677
+0, 18 meses ,DATE,678
+0, Luuk ,ORG,679
+1, Davivienda ,ORG,679
+2, 30 % ,PERCENT,679
+0, Fitch ,ORG,680
+0, 5 ,CARDINAL,682
+0, Chris_Montz ,PERSON,685
+1, Davivienda ,GPE,685
+0, DanielP78061978 ,PERSON,687
+1, 4 ,CARDINAL,687
+2, 3 meses ,DATE,687
+3, más de 300 mil dólares ,MONEY,687
+0, un año ,DATE,690
+1, 400 % ,PERCENT,690
+2, 93 ,CARDINAL,690
+3, 2022 ,DATE,690
+0, primera ,ORDINAL,691
+1, 20 millones ,CARDINAL,691
+0," El Comercial de 
+ @ Davivienda 
+ "" En El Lugar Equivocado ",WORK_OF_ART,694
+0, cientos ,CARDINAL,695
+0, Gustavo ,PERSON,696
+1, Petro ,PERSON,696
+2, 1linea ,ORG,696
+0, 12 am ,TIME,698
+1, 10 am ,TIME,698
+0, Davivienda ,ORG,699
+0, Davivienda ,LOC,701
+1, Chávez ,PERSON,701
+0, 2 ,CARDINAL,703
+0, Campanario Popayán ,FAC,705
+1, 15' ,QUANTITY,705
+2, primero ,ORDINAL,705
+3, 2 ,CARDINAL,705
+0, 2 ,CARDINAL,707
+1, 1 ,CARDINAL,707
+0, primera ,ORDINAL,709
+1, oriente ,LOC,709
+2, cali ,LOC,709
+0, Vanessa L . S ,PERSON,713
+1, Bancolombia ,ORG,713
+0, Angela ,PERSON,715
+1, Davivienda ,ORG,715
+0, Eliana ,PERSON,716
+1, 1 ,CARDINAL,716
+0, Giovannirincon ,PERSON,717
+1, Giovanni ,PERSON,717
+0, Davivienda ,PERSON,718
+1, Colombia ,GPE,718
+2, 13 ,CARDINAL,718
+3, MAÑANA ,GPE,718
+4, Segundo Día ,DATE,718
+5, Miley Cyrus ,PERSON,718
+6, 9 ,TIME,718
+7, 00AM ,TIME,718
+8, TuBoletaNews ,ORG,718
+9, Dua Lipa ,PERSON,718
+10, 10 ,TIME,718
+11, 00AM ,TIME,718
+12, 1 ,CARDINAL,718
+13, 4 ,CARDINAL,718
+0,,ORG,719
+1, Bogotá ,GPE,719
+2, 14 ,CARDINAL,719
+3, hoy ,DATE,719
+4, Bancolombia ,ORG,719
+5, Bogotá ,GPE,719
+6, medio día ,DATE,719
+0, Davivienda ,PRODUCT,721
+1, más de dos días ,DATE,721
+2, 2 ,CARDINAL,721
+3, 1 ,CARDINAL,721
+0, Davivienda ,ORG,723
+1, 20 ,CARDINAL,723
+0, medio ,DATE,724
+1, un mes ,DATE,724
+0, 2 ,CARDINAL,726
+1, 99 ,CARDINAL,726
+2, 15 ,CARDINAL,726
+3, 50 % ,PERCENT,726
+0, un año ,DATE,727
+0, Davivienda ,GPE,728
+1, Edward Rodríguez ,PERSON,728
+2, 14 ,CARDINAL,728
+3, más de 21 años ,DATE,728
+4, el Centro Democrático ,ORG,728
+0, El Salvador ,GPE,730
+1, todos los meses ,DATE,730
+0, 3 ,CARDINAL,731
+0, varias semanas ,DATE,732
+1, 1 ,CARDINAL,732
+0, Davivienda ,ORG,733
+1, Davivienda ,ORG,733
+0, Bogota ,GPE,735
+1, Barranquilla ,GPE,735
+2, Medellin ,GPE,735
+3, Cali ,GPE,735
+0, 15 días ,DATE,736
+1, 15 días ,DATE,736
+2, 15 días ,DATE,736
+3, hoy ,DATE,736
+4, 5 días más ,DATE,736
+0, HP ,ORG,737
+1, Colombia ,GPE,737
+2, Bancos ,ORG,737
+3, Davivienda ,ORG,737
+4, Bancolombia ,ORG,737
+5, dos ,CARDINAL,737
+0, horas ,TIME,738
+0, 50 % ,PERCENT,739
+1, Promerica ,ORG,739
+2," + 2 , 000 USD ",MONEY,739
+0, la ,GPE,743
+1, San Marino ,GPE,743
+2, el 18 . 5 % ,PERCENT,743
+0, Dania González ,PERSON,745
+1, 13 ,CARDINAL,745
+0, colombianos ,NORP,746
+1, 2 ,CARDINAL,746
+0, Julianaramirez6 ,ORG,748
+1, BancosAval ,ORG,748
+2, Davivienda ,ORG,748
+0, 2 ,CARDINAL,752
+0, hace 3 años ,DATE,756
+1, 2 ,CARDINAL,756
+2, 1 ,CARDINAL,756
+0, 2 ,CARDINAL,757
+1, 1 ,CARDINAL,757
+0, Buenos días ,DATE,759
+1, 500 ,MONEY,759
+0, Bancolombia ,ORG,760
+1, Kelly ,PERSON,760
+2, Bancolombia ,ORG,760
+0, jueves 9 diciembre ,DATE,761
+0, 2 semanas ,DATE,763
+1, dos ,CARDINAL,763
+2, 48 hrs ,QUANTITY,763
+0, Colombiana ,NORP,765
+0, 100 ,CARDINAL,766
+1, DaviPlata ,ORG,766
+2, SFCsupervisor ,ORG,766
+0, un Banco Colombiano ,ORG,767
+0, 2 ,CARDINAL,768
+0, 2 ,CARDINAL,769
+0, colombianas ,NORP,770
+0, JavierJMED ,PERSON,771
+1, Javi ,PERSON,771
+0, la última semana de noviembre ,DATE,772
+1, tres días ,DATE,772
+2, más de tres dias ,DATE,772
+3, Alejo ,PERSON,772
+0, 3 ,CARDINAL,773
+1, 4 ,CARDINAL,773
+0, Davivienda ,PERSON,774
+1, fernandhovilla ,PERSON,774
+2, Binance ,PERSON,774
+3, el día 1 ,DATE,774
+4, hoy ,DATE,774
+5, al día 62 ,DATE,774
+6, 500 ,CARDINAL,774
+7, 1 ,CARDINAL,774
+0, Javier ,PERSON,776
+1, 2 ,CARDINAL,776
+0, Día 35 ,DATE,777
+1, DaviPlata ,PRODUCT,777
+2, SFCsupervisor ,ORG,777
+0, JavierJMED ,PERSON,778
+0, 1 mil ,CARDINAL,779
+0, 2 ,CARDINAL,780
+0, Rangel ,PERSON,781
+1, 0005 ,MONEY,781
+2, Cali ,GPE,781
+3, Ángeles ,GPE,781
+4, Oscar ,PERSON,781
+5, 2 ,CARDINAL,781
+6, 2 ,CARDINAL,781
+0,,TIME,783
+0, Mauricio Cárdenas ,PERSON,784
+1, 14 ,CARDINAL,784
+2, el 10 % ,PERCENT,784
+0,,DATE,786
+1, 2 ,CARDINAL,786
+0, Marianiniecheve ,PERSON,787
+1, RubenPinzonHdez ,PERSON,787
+2, 2 ,CARDINAL,787
+3, Banco Davivienda ,ORG,787
+4, 2 ,CARDINAL,787
+5, 13 ,CARDINAL,787
+0, Caracas ,GPE,788
+1, 20 ,CARDINAL,788
+2, 17 ,CARDINAL,788
+0, Marianiniecheve ,PERSON,789
+1, 2 ,CARDINAL,789
+2, 3 meses ,DATE,789
+3, 50mil pesos ,MONEY,789
+4, 2 ,CARDINAL,789
+5, 7 ,CARDINAL,789
+6, 14 ,CARDINAL,789
+0, 24horas ,CARDINAL,790
+0, Marianiniecheve ,ORG,791
+1, SegurosBolivar ,ORG,791
+2, 5 ,CARDINAL,791
+3, 14 ,CARDINAL,791
+0, Navidad ,DATE,792
+1, 2 ,CARDINAL,792
+0, Colombia ,GPE,793
+1, Niny Echeverry ,PERSON,793
+2, 15 ,CARDINAL,793
+0, 2 ,CARDINAL,794
+0, Marianiniecheve ,PERSON,795
+1, SegurosBolivar ,ORG,795
+2, Davivienda ,PERSON,795
+3, el Banco Colpatria ,ORG,795
+4, el último año ,DATE,795
+5, este año ,DATE,795
+6, dos años anteriores ,DATE,795
+7, SegurosBolivar ,ORG,795
+8, 15 ,CARDINAL,795
+9, 23 ,CARDINAL,795
+0, 6 ,CARDINAL,797
+1, 6 ,CARDINAL,797
+0, 3 ,CARDINAL,798
+1, 6 meses ,DATE,798
+2, 1 ,CARDINAL,798
+3, 5 ,CARDINAL,798
+0, el domingo ,DATE,801
+1, WhatsApp ,ORG,801
+0, Miller ,PERSON,802
+1, el pasado domingo ,DATE,802
+2, WhatsApp ,ORG,802
+0,,DATE,803
+1, DaviPlata ,PRODUCT,803
+2, SFCsupervisor ,PRODUCT,803
+0, primero ,ORDINAL,805
+1, uno ,CARDINAL,805
+2, Netflix ,ORG,805
+3, 1 ,CARDINAL,805
+4, dos ,CARDINAL,805
+5, 2 ,CARDINAL,805
+6, 1 ,CARDINAL,805
+0, 15 ,CARDINAL,806
+0, Davivienda ,ORG,807
+0, 5 meses ,DATE,808
+0, Davivienda ,ORG,809
+1, El Salvador ,GPE,809
+2, día ,TIME,809
+3, hora ,TIME,809
+4, 1 ,CARDINAL,809
+5, 4 ,CARDINAL,809
+0, 2 ,CARDINAL,810
+1, 3 ,CARDINAL,810
+0, Misterpan ,GPE,811
+1, Barranquilla ,GPE,811
+0, más de 10 ,CARDINAL,812
+0, cientos ,CARDINAL,817
+1, Colombia ,GPE,817
+2, 2 ,CARDINAL,817
+3, 5 ,CARDINAL,817
+4, 4 ,CARDINAL,817
+0, Betocoralg ,PERSON,818
+1, Beto ,PERSON,818
+2, Oscar ,PERSON,818
+3, 3 ,CARDINAL,818
+4, 3 ,CARDINAL,818
+5, 3 ,CARDINAL,818
+0, Davivienda ,ORG,819
+0, Oscar ,PERSON,820
+1, 2 ,CARDINAL,820
+0, Davivienda ,PERSON,822
+0, 8 días ,DATE,823
+0, Marianiniecheve ,PERSON,824
+1, Bolivar ,ORG,824
+0, Misterpan Barranquilla ,GPE,825
+1, Misterpan Barranquilla ,GPE,825
+0, Maria Niny Echeverry ,PERSON,826
+1, 15 ,CARDINAL,826
+0, el ,DATE,827
+1, 2021 ,DATE,827
+2, # InversiónSocial ,WORK_OF_ART,827
+3, decenas ,CARDINAL,827
+4, este ,DATE,827
+5, 2021 ,DATE,827
+6, 1 ,CARDINAL,827
+0, 2 ,CARDINAL,828
+1, 1 ,CARDINAL,828
+0, JavierEdu826 ,PERSON,832
+0, Colombianos ,NORP,833
+0, un año ,DATE,834
+0, Davivienda ,ORG,838
+0, Como Davivienda ,WORK_OF_ART,840
+0, Karlaarcila ,ORG,841
+1, Davivienda ,ORG,841
+2, New York ,GPE,841
+3, Davivienda ,ORG,841
+4, 2 ,CARDINAL,841
+0, DaviPlata ,ORG,843
+0, abril ,DATE,846
+0, Karlaarcila ,PERSON,847
+1, Davivienda ,PERSON,847
+2, Karla hola ,PERSON,847
+3, Bogota ,GPE,847
+0, el domingo ,DATE,848
+1, 5 ,CARDINAL,848
+0, Marianiniecheve ,PERSON,849
+1, 2 ,CARDINAL,849
+0, el domingo ,DATE,850
+0, Marianiniecheve ,PERSON,852
+1, 2 ,CARDINAL,852
+0, 3 semanas ,DATE,853
+1, 4 días ,DATE,853
+2, 4 días ,DATE,853
+0, UNI ,ORG,854
+0, 2 ,CARDINAL,855
+1, Bitcoin ,ORG,855
+2, 2 ,CARDINAL,855
+0, Marianiniecheve ,ORG,858
+1, SegurosBolivar ,ORG,858
+2, Davivienda ,ORG,858
+3, Holding ,ORG,858
+4, Colpatria ,ORG,858
+0, Marianiniecheve ,PERSON,861
+1, SegurosBolivar ,PERSON,861
+2, Davivienda ,PERSON,861
+3, SegurosMundial ,PERSON,861
+0, Marianiniecheve ,PERSON,862
+1, Davivienda ,PERSON,862
+0, 2 ,CARDINAL,863
+1, mañana ,TIME,863
+2, jueves 17 de diciembre ,DATE,863
+0, Karlaarcila ,PERSON,866
+1, Davivienda ,PERSON,866
+0, primera ,ORDINAL,868
+0, 3 ,CARDINAL,869
+0, Karla ,PERSON,873
+0, 2 ,CARDINAL,874
+0, Marianiniecheve ,PERSON,875
+1, 2 ,CARDINAL,875
+0, tres días ,DATE,876
+1, SFCsupervisor ,PRODUCT,876
+0, Davivienda ,ORG,877
+1, Davivienda ,ORG,877
+0, Davivienda ,ORG,878
+1, Transfiya ,PRODUCT,878
+2, Bancolombia ,ORG,878
+3, Davivienda ,ORG,878
+4, Bancolombia ,ORG,878
+5, Davivienda ,ORG,878
+0, 2 ,CARDINAL,879
+0, Bancolombia ,ORG,880
+1, Daviplata ,ORG,880
+2, Dian ,ORG,880
+0, Karlaarcila ,PERSON,886
+0, Oscar ivan ,PERSON,888
+1, 4 ,CARDINAL,888
+2, Soacha ,LOC,888
+0, Oscar ivan ,PERSON,890
+0, México ,GPE,891
+1, 2 ,CARDINAL,891
+0, 2 ,CARDINAL,895
+0, LaHuellaSV ,PERSON,897
+1, DaniaGonzalz ,PERSON,897
+2, WilliamSorianoH ,PERSON,897
+3, 1 ,MONEY,897
+4, 000 ,MONEY,897
+5, 12 ,MONEY,897
+6, 000 ,MONEY,897
+7, Davivienda ,ORG,897
+8, 40 ,MONEY,897
+9, 251 meses ( ,DATE,897
+10, 21 años ) ,DATE,897
+0, El Salvador ,GPE,898
+0, Davivienda ,ORG,900
+0, Bancolombia ,ORG,902
+1, Colombia ,GPE,902
+0, 7 años ,DATE,904
+0, Karla ,PERSON,906
+0, DaviPlata ,ORG,908
+1, 24 horas ,TIME,908
+0, Davivienda ,ORG,909
+1, Apple Pay ,PRODUCT,909
+2, Davivienda ,ORG,909
+3, Bancolombia ,ORG,909
+0, Davivienda ,ORG,910
+1, Bancolombia ,ORG,910
+2, Bancolombia ,ORG,910
+3, Davivienda ,ORG,910
+4, 2 nov . ,DATE,910
+5, Apple Pay ,ORG,910
+6, Colombia ,GPE,910
+7, Bancolombia ,ORG,910
+0, María ,PERSON,911
+1, Davivienda ,ORG,911
+2, Feliz ,PERSON,911
+0, Mauricio27124 ,PERSON,912
+1, Buenos días ,DATE,912
+2, Mauricio ,PERSON,912
+0, Laura ,PERSON,913
+0, Buenos días ,DATE,914
+1, Mónica ,PERSON,914
+0, Buenas ,TIME,915
+0, Buenas noches ,TIME,916
+1, Eliana ,PERSON,916
+0, Buenos días ,DATE,918
+1, Diana ,PERSON,918
+0, AdamAltadill ,PERSON,919
+1, Buenas noches ,TIME,919
+2, Adam ,PERSON,919
+0, Christian_BVC ,PERSON,921
+1, Christian_BVC ,PERSON,921
+0, SantiagoVargasN ,PERSON,922
+1, Buenos días ,DATE,922
+2, Santiago ,PERSON,922
+0, Marianiniecheve ,PERSON,923
+1, 2 ,CARDINAL,923
+0, Laura ,PERSON,924
+1, Laura ,PERSON,924
+0, Sonia ,PERSON,925
+1, 3 ,CARDINAL,925
+0, Karlaarcila ,PERSON,926
+1, Karla ,PERSON,926
+0, Buenos días ,DATE,927
+0, Buenos días ,GPE,928
+1, Diana ,PERSON,928
+2, 3383838 ,CARDINAL,928
+3, Bogotá ,GPE,928
+0, Diana ,PERSON,929
+1, Bogotá ,GPE,929
+0, FabioFernandoH1 ,PERSON,930
+1, Buenas ,TIME,930
+2, Fabio ,PERSON,930
+0, Buenos días ,DATE,931
+0, Amin ,PERSON,932
+0, Alexander ,PERSON,934
+0, Hola Omar ,PERSON,935
+0, Buenos días ,DATE,938
+0, Buenas ,TIME,939
+0, FabioFernandoH1 ,PERSON,941
+1, Fabio ,PERSON,941
+0, Buenos días ,DATE,942
+0, Buenos días ,DATE,943
+1, Liseth ,PERSON,943
+0, Buenas ,TIME,944
+0, Buenos días ,DATE,945
+0, - 7 . 53 % ,PERCENT,946
+1, 14 de diciembre ,DATE,946
+2, 4 ,CARDINAL,946
+3, . ,CARDINAL,946
+4, 622pbs ,CARDINAL,946
+5, 38 ,PERCENT,946
+6, 69 % ,PERCENT,946
+7, mes anterior ,DATE,946
+8, FIC SEGURIDAD BOLIVAR ,ORG,946
+9, 1 ,CARDINAL,946
+10, 3 ,CARDINAL,946
+0, 9 ,CARDINAL,947
+0, Davivienda ,PERSON,949
+0, 2 ,CARDINAL,950
+0, Rotaract ,ORG,951
+1, Davivienda ,LOC,951
+0, DaviPlata ,ORG,952
+1, 3 ,MONEY,952
+2, 300 ,MONEY,952
+0, Refugio Instinto ,FAC,953
+1, Ciudad Bolivar ,GPE,953
+2, 40 ,CARDINAL,953
+0, 1 ,CARDINAL,955
+1, 1 ,CARDINAL,955
+0, Refugio Instinto ,FAC,956
+1, Ciudad Bolivar ,GPE,956
+2, 40 ,CARDINAL,956
+0, Marianiniecheve ,PERSON,957
+1, un par de meses ,DATE,957
+2, Davivienda ,GPE,957
+3, los 15 dias ,DATE,957
+0, Tres ,CARDINAL,958
+1, Davivienda ,ORG,958
+2, grupoaval ,ORG,958
+3, Bancolombia ,ORG,958
+4, el 65 % ,PERCENT,958
+0, México ,GPE,959
+1, Colombia ,GPE,959
+2, Bancolombia ,ORG,959
+3, Gemini ,ORG,959
+4, Ricardo Salinas Pliego ,PERSON,959
+5, RicardoBSalinas ,ORG,959
+6, 16 ,CARDINAL,959
+7, ElektraMx ,ORG,959
+8, 1er ,ORDINAL,959
+9, México ,GPE,959
+10, Bitcoin ,ORG,959
+0,,DATE,961
+1, FAMISANAR ,GPE,961
+2, un mes ,DATE,961
+3, 3 ,CARDINAL,961
+0, 2 ,CARDINAL,962
+1, dos ,CARDINAL,962
+2, 2 ,CARDINAL,962
+3, 4 ,CARDINAL,962
+0, Davivienda ,ORG,963
+1, millones de dólares ,MONEY,963
+0, uno ,CARDINAL,964
+1, Davivienda ,ORG,964
+2, Davivienda ,ORG,964
+0, Refugio Instinto ,FAC,965
+1, Ciudad Bolivar ,GPE,965
+2, 40 ,CARDINAL,965
+0,,DATE,966
+1, 05 ,TIME,966
+2, 16PM ,TIME,966
+3," December 16 , 2021 ",DATE,966
+4, 05 ,TIME,966
+5, 11PM ,TIME,966
+6," December 16 , 2021 ",DATE,966
+7, 05 ,TIME,966
+8, 09PM ,TIME,966
+9, 2 ,CARDINAL,966
+0,,PERSON,967
+1, MSCI ,ORG,967
+2, 2022 ,CARDINAL,967
+3, msci ,ORG,967
+4, 2022 ,DATE,967
+5, El Libro 2022 ,WORK_OF_ART,967
+0, las próximas horas ,TIME,968
+0, 8 días ,DATE,969
+1, 15 años ,DATE,969
+2, 1 ,CARDINAL,969
+0, más de 5 ,CARDINAL,970
+0, Davivienda ,ORG,972
+0, WhatsApp ,ORG,975
+0,,DATE,976
+1, 05 ,TIME,976
+2, 09PM ,TIME,976
+0, Miller ,PERSON,977
+0, Davivienda ,ORG,978
+1, más de 500 ,CARDINAL,978
+2, colombianos ,NORP,978
+3, 2 ,CARDINAL,978
+4, 2 ,CARDINAL,978
+0, una semana ,DATE,979
+1, Davivienda ,ORG,979
+2, Valledupar ,GPE,979
+3, al día de hoy ,DATE,979
+0, primer ,ORDINAL,980
+1, segundo ,ORDINAL,980
+2, dos ,CARDINAL,980
+0, Bancolombia ,ORG,981
+1, Colombia ,GPE,981
+2, Davivienda ,ORG,981
+3, 2 ,CARDINAL,981
+0, Davivienda ,ORG,982
+1, millones de dólares ,MONEY,982
+2, Davivienda ,ORG,982
+3, millones de dólares ,MONEY,982
+4, Efraín Forero ,PERSON,982
+0, 3 ,CARDINAL,983
+1, 2 ,CARDINAL,983
+0, InversiónSocial ,WORK_OF_ART,984
+1, 2 ,CARDINAL,984
+0, 2 ,CARDINAL,985
+1, 3 ,CARDINAL,985
+0, 2 ,CARDINAL,986
+0,,DATE,987
+1, 05 ,TIME,987
+2, 11PM ,TIME,987
+3," December 16 , 2021 ",DATE,987
+4, 05 ,TIME,987
+5, 09PM ,TIME,987
+6, 1 ,CARDINAL,987
+0, Karlaarcila ,ORG,989
+1, Davivienda ,ORG,989
+2, Davivienda ,ORG,989
+3, Davivienda ,ORG,989
+0, 2 ,CARDINAL,990
+0, Mozilla ,ORG,993
+1, 2 ,CARDINAL,993
+0, más de 500 ,CARDINAL,995
+1, Colombianos ,NORP,995
+2, Colombia ,GPE,995
+3, NoticiasRCN ,ORG,995
+4, 2 ,CARDINAL,995
+5, 2 ,CARDINAL,995
+6, 5 ,CARDINAL,995
+0, Colombia ,GPE,996
+0, una hora ,TIME,997
+0, Marianiniecheve ,ORG,1000
+1, SegurosBolivar ,ORG,1000
+2, Davivienda ,ORG,1000
+3, AvAL ,ORG,1000
+0, 2 ,CARDINAL,1002
+0, 2 ,CARDINAL,1007
+0, Davivienda ,ORG,1009
+1, Davivienda ,ORG,1009
+2, 9000 pesos ,MONEY,1009
+0, al día siguiente ,DATE,1010
+0, Marianiniecheve ,ORG,1013
+1, SegurosBolivar ,ORG,1013
+2, Davivienda ,ORG,1013
+3, Bolívar ,ORG,1013
+0, Gallo ,PERSON,1014
+0, 48 horas ,TIME,1015
+1, el ,DATE,1015
+2, domingo ,DATE,1015
+0, 2 ,CARDINAL,1016
+1, meses ,DATE,1016
+0, WhatsApp ,ORG,1017
+0, el día domingo ,DATE,1018
+1, 48 horas ,TIME,1018
+2, el día domingo ,DATE,1018
+0, el día domingo ,DATE,1019
+1, 48 ,DATE,1019
+0, Colombia ,GPE,1020
+0, 3 ,CARDINAL,1021
+1, mes y medio ,DATE,1021
+2, 500 ,CARDINAL,1021
+0, 2 ,CARDINAL,1022
+0, 320 ,CARDINAL,1023
+1, 350 ,CARDINAL,1023
+0, 2 ,CARDINAL,1024
+0, el domingo ,DATE,1028
+1, WhatsApp ,ORG,1028
+0, 3 ,CARDINAL,1030
+1, más de 500 ,CARDINAL,1030
+2, Colombianos ,NORP,1030
+3, NoticiasCaracoltv ,ORG,1030
+4, 500 ,CARDINAL,1030
+0, un mes ,DATE,1031
+1, 10 minutos ,TIME,1031
+0, 2 ,CARDINAL,1033
+0, 2 ,CARDINAL,1034
+1, Scotiabank Colpatria ,ORG,1034
+2, 1 ,CARDINAL,1034
+3, 3 ,CARDINAL,1034
+0, dos semanas ,DATE,1039
+1, dos ,CARDINAL,1039
+2, 1 ,CARDINAL,1039
+0, WhatsApp ,ORG,1040
+1, 48 ,CARDINAL,1040
+0, casi 1 hora ,TIME,1041
+0, dos semanas ,DATE,1042
+1, dos ,CARDINAL,1042
+0, Colombia ,GPE,1045
+0, 2 ,CARDINAL,1047
+0, 2 ,CARDINAL,1050
+0, Miller ,PERSON,1051
+1, Eduardo Noguera ,PERSON,1051
+0, tantos años ,DATE,1053
+0, 3 ,CARDINAL,1055
+0, Bancolombia ,ORG,1056
+1, Neki ,PERSON,1056
+2, BbUVeA ,ORG,1056
+3, Grupo Aval ,ORG,1056
+4, Banco Agrario ,ORG,1056
+5, Davivienda ,GPE,1056
+6, Gillinski ,PERSON,1056
+0, Marianiniecheve ,ORG,1059
+1, SegurosBolivar ,ORG,1059
+2, Davivienda ,ORG,1059
+3, dos ,CARDINAL,1059
+0, dos ,CARDINAL,1061
+1, el mes ,DATE,1061
+2, 1 ,CARDINAL,1061
+3, 1 ,CARDINAL,1061
+0, Jergonzalez ,PERSON,1062
+1, Marianiniecheve ,PERSON,1062
+2, 2 ,CARDINAL,1062
+3, Esta semana ,DATE,1062
+0, Marianiniecheve ,PERSON,1065
+0, María ,PERSON,1068
+0, Davivienda ,PERSON,1069
+1, Karlaarcila ,PERSON,1069
+0, Davivienda ,ORG,1072
+1, 75 ,CARDINAL,1072
+2, . ,CARDINAL,1072
+3, 998 ,CARDINAL,1072
+4, Daviplata ,ORG,1072
+5, PSE ,ORG,1072
+0, Bancolombia ,ORG,1073
+0, 2 ,CARDINAL,1074
+1, Banco de Bogotá ,ORG,1074
+2, 6 millones ,MONEY,1074
+0, 2 ,CARDINAL,1075
+0, NYC ,GPE,1076
+0, 2 meses ,DATE,1077
+1, los 15 ,DATE,1077
+2, Colombia ,GPE,1077
+0, cuatro ,CARDINAL,1078
+1, 2 ,CARDINAL,1078
+0, Davivienda ,LOC,1080
+1, Araujo ,FAC,1080
+0, 2 ,CARDINAL,1081
+1, quincenas ,DATE,1081
+2, Bancolombia ,ORG,1081
+3, Bancolombia ,ORG,1081
+4, quincenas ,DATE,1081
+0, Bancolombia ,ORG,1082
+0, 2 ,CARDINAL,1083
+1, Davivienda ,ORG,1083
+2, Bancolombia ,ORG,1083
+3, Davivienda ,ORG,1083
+4, Dos ,CARDINAL,1083
+5, tres ,CARDINAL,1083
+6, Colombia ,GPE,1083
+0, 2 ,CARDINAL,1085
+0, 3 ,CARDINAL,1086
+0, 3 ,CARDINAL,1087
+1, dos ,CARDINAL,1087
+0, 3 ,CARDINAL,1088
+0, 3 ,CARDINAL,1089
+0, Karlaarcila ,ORG,1091
+1, Davivienda ,ORG,1091
+0, 9 ,CARDINAL,1092
+1, Gane ,ORG,1092
+2, Davivienda ,ORG,1092
+3, Canal ,ORG,1092
+0, Buenos días ,DATE,1094
+0, Laura ,PERSON,1095
+1, 3 ,CARDINAL,1095
+0, Andrés ,PERSON,1097
+1, Davivienda ,PERSON,1097
+0, Elizabe18211242 ,PERSON,1099
+1, Buenos día ,DATE,1099
+2, Elizabeth ,PERSON,1099
+0, unos minutos antes ,TIME,1100
+0, Buenas ,TIME,1102
+1, Johana ,PERSON,1102
+0, Buenos días ,DATE,1103
+0, Buenas tardes ,TIME,1104
+1, Nelson ,PERSON,1104
+0, Lalita_Giraldo ,PERSON,1105
+1, Buenos días ,DATE,1105
+0, AmazoPau ,ORG,1106
+1, Paula ,PERSON,1106
+0, Buenos días ,DATE,1107
+0, Eddy ,PERSON,1108
+0, Lina ,PERSON,1110
+0, Karlaarcila ,PERSON,1111
+1, Buenos días ,DATE,1111
+2, Karla ,PERSON,1111
+0, Hola ,PERSON,1113
+0, Hola Santiago ,PERSON,1114
+1, Laura A . ,PERSON,1114
+0, Buenas noches ,TIME,1115
+1, Nixon ,PERSON,1115
+0, Buenas tardes ,TIME,1116
+1, Santiago ,PERSON,1116
+0, Santiago ,PERSON,1117
+1, 2 ,CARDINAL,1117
+0, Buenos días ,DATE,1118
+1, Sergio ,PERSON,1118
+0, Buenas tardes ,TIME,1119
+1, Camila ,PERSON,1119
+0, Buenas tardes ,TIME,1120
+1, Nancy ,PERSON,1120
+0, Buenos días ,DATE,1121
+0, Felipe200248 ,PERSON,1122
+1, Felipe ,PERSON,1122
+0, Buenas ,TIME,1123
+1, Lorena ,PERSON,1123
+0, Buenas tardes ,TIME,1124
+1, Gina ,PERSON,1124
+0, Buenas tardes ,TIME,1125
+0, HERNANDEZHERMES ,PERSON,1126
+1, Buenas tardes ,TIME,1126
+2, Hermes ,PERSON,1126
+0, Buenos días ,DATE,1127
+1, Melissa ,PERSON,1127
+0, Buenos días ,DATE,1128
+0, Krn_sbe ,PERSON,1130
+1, Karen ,PERSON,1130
+2, 2 ,CARDINAL,1130
+0, Buenos días ,DATE,1131
+0, Buenos días ,DATE,1132
+0, NelsonSanAmay ,PERSON,1133
+1, Buenos días ,DATE,1133
+2, Nelson ,PERSON,1133
+0, primera ,ORDINAL,1134
+1, Davivienda ,ORG,1134
+2, más de $ 1 . 000 millones de pesos ,MONEY,1134
+3, 87 ,CARDINAL,1134
+4, 1 ,CARDINAL,1134
+5," , ",CARDINAL,1134
+6, 5 mil ,CARDINAL,1134
+7, 2 ,CARDINAL,1134
+8," , ",CARDINAL,1134
+9, 5 mil ,CARDINAL,1134
+0, Wilson Arias ,PERSON,1136
+1, 17 ,CARDINAL,1136
+2, primera ,ORDINAL,1136
+3, Davivienda ,ORG,1136
+4, más de $ 1 . 000 millones de pesos ,MONEY,1136
+5, 2 ,CARDINAL,1136
+6, 2 ,CARDINAL,1136
+0, Uribistas ,NORP,1137
+0, 4 ,CARDINAL,1138
+0, 2 ,CARDINAL,1139
+0, Davivienda ,GPE,1140
+1, SAC ,ORG,1140
+2, PETRO ,PERSON,1140
+3, 3 ,CARDINAL,1140
+0, 16 ,CARDINAL,1141
+1, Bancolombia ,ORG,1141
+0, 2 ,CARDINAL,1143
+1, 4 ,CARDINAL,1143
+0, wilsonariasc ,ORG,1144
+1, MemoBastid ,ORG,1144
+2, Davivienda ,ORG,1144
+3, PaoHerreraC ,ORG,1144
+4, Davivienda ,ORG,1144
+5, 7 ,CARDINAL,1144
+6, 23 ,CARDINAL,1144
+0, 17 ,CARDINAL,1145
+1, al ,CARDINAL,1145
+2, 4 ,CARDINAL,1145
+3, este Diciembre ,DATE,1145
+0, Mauricio Silva ,PERSON,1147
+1, 16 ,CARDINAL,1147
+2, Uribe ,PERSON,1147
+3, Giraldo ,PERSON,1147
+4, Libertadores ,EVENT,1147
+0, 2 ,CARDINAL,1148
+0, Mazda ,ORG,1149
+0, Bancolombia ,ORG,1150
+1, 2 ,CARDINAL,1150
+2, 3 ,CARDINAL,1150
+0, el día domingo ,DATE,1151
+1, 48 horas ,TIME,1151
+0, el Grupo AVAL ,ORG,1152
+1, 2 ,CARDINAL,1152
+2, 11 ,CARDINAL,1152
+0, un día ,DATE,1153
+1, un año ,DATE,1153
+0, 14 ,CARDINAL,1154
+0, Jorge_Montreal ,PERSON,1156
+1, Davivienda ,PERSON,1156
+2, Jorge ,PERSON,1156
+3, Davivienda ,PERSON,1156
+4, Fiscalia ,ORG,1156
+5, 2 ,CARDINAL,1156
+0, 2 ,CARDINAL,1157
+1, 6 ,CARDINAL,1157
+0, Davivienda ,ORG,1158
+1, 1 ,CARDINAL,1158
+2, 1 ,CARDINAL,1158
+0, castellana ,NORP,1159
+0, 2 ,CARDINAL,1160
+0, Jorge_Montreal ,PERSON,1161
+1, 1 ,CARDINAL,1161
+2, 2 ,CARDINAL,1161
+0, 5 ,CARDINAL,1162
+1, un día ,DATE,1162
+2, 1 ,CARDINAL,1162
+3, 2 ,CARDINAL,1162
+4, 13 ,CARDINAL,1162
+0, Davivienda ,ORG,1165
+1, Wilson Arias ,PERSON,1165
+2, primera ,ORDINAL,1165
+3, Davivienda ,ORG,1165
+4, más de $ 1 . 000 millones de pesos ,MONEY,1165
+0, Bancolombia ,ORG,1166
+0, 2 ,CARDINAL,1168
+1, 1 ,CARDINAL,1168
+2, 2 ,CARDINAL,1168
+3, 10 ,CARDINAL,1168
+0, 2 ,CARDINAL,1169
+0, el día domingo 12 de diciembre ,DATE,1172
+0, dos ,CARDINAL,1173
+0, WhatsApp ,ORG,1174
+1, 48 ,DATE,1174
+0, 48 ,CARDINAL,1176
+0, Bancolombia ,ORG,1177
+0, DaviPlata ,ORG,1178
+1, 3 ,CARDINAL,1178
+2, Davivienda ,ORG,1178
+3, Barranquilla ,GPE,1178
+4, 2 ,CARDINAL,1178
+5, 1 ,CARDINAL,1178
+0, 2 ,CARDINAL,1179
+0,,PERSON,1180
+1," "" La Yegua "" ",WORK_OF_ART,1180
+2, Márquez ,PERSON,1180
+3, Millos ,PERSON,1180
+0, Banco de Bogotá ,ORG,1182
+1, hoy ,DATE,1182
+0, Jorge_Montreal ,PERSON,1184
+1, 1 ,CARDINAL,1184
+2, . ,CARDINAL,1184
+3, 5m ,CARDINAL,1184
+4, 3 ,CARDINAL,1184
+0, 3 ,CARDINAL,1185
+0, 1 hora ,TIME,1187
+1, 6 ,CARDINAL,1187
+2, 6 ,CARDINAL,1187
+0, 17 ,CARDINAL,1188
+1, al ,CARDINAL,1188
+2, 4 ,CARDINAL,1188
+3, este Diciembre ,DATE,1188
+0, Diana_banana__ ,PERSON,1189
+1, 1 ,CARDINAL,1189
+0, WhatsApp ,ORG,1190
+0, 2 ,CARDINAL,1191
+1, Bogotá ,GPE,1191
+2, 1 ,CARDINAL,1191
+3, 6 ,CARDINAL,1191
+0, primera ,ORDINAL,1192
+1, más de $ 1 . 000 millones de pesos ,MONEY,1192
+0, 3 ,CARDINAL,1194
+0, Wilson Arias ,PERSON,1195
+1, 17 ,CARDINAL,1195
+2, primera ,ORDINAL,1195
+3, Davivienda ,ORG,1195
+4, más de $ 1 . 000 millones de pesos ,MONEY,1195
+0, 2 horas ,TIME,1196
+1, Dm ,ORG,1196
+0, Polombia ,GPE,1201
+0, Davivienda ,ORG,1202
+0, DaviPlata ,PRODUCT,1205
+1, 2 ,CARDINAL,1205
+0, IvanDuque ,PERSON,1206
+1, Ojalá ,PERSON,1206
+0, 2 ,CARDINAL,1207
+0, pnc ,ORG,1209
+0, 2 ,CARDINAL,1210
+1, 2 ,CARDINAL,1210
+0, Colpensiones ,ORG,1211
+0, 3 ,CARDINAL,1212
+0, Centro Democrático ,ORG,1214
+1, MartinSantosR ,ORG,1214
+0, 2 ,CARDINAL,1215
+1, 2 ,CARDINAL,1215
+0, 3 ,CARDINAL,1216
+0, Wilson ,PERSON,1219
+0, segunda ,ORDINAL,1221
+0, más de 500 ,CARDINAL,1222
+1, Colombia ,GPE,1222
+2, Colombia ,GPE,1222
+3, 2 ,CARDINAL,1222
+0, Bancolombia ,ORG,1223
+1, uno ,CARDINAL,1223
+2, 18 millones ,CARDINAL,1223
+3, uno ,CARDINAL,1223
+4, 10 millones ,CARDINAL,1223
+5, un millon ,MONEY,1223
+6, 5 millones ,MONEY,1223
+0, 2 ,CARDINAL,1224
+1, Grinch ,ORG,1224
+2, 500 ,CARDINAL,1224
+3, colombianos ,NORP,1224
+4, colombiana ,NORP,1224
+5, 1 ,CARDINAL,1224
+6, 1 ,CARDINAL,1224
+7, 2 ,CARDINAL,1224
+0, Diego ,PERSON,1225
+1, Alberto ,PERSON,1225
+2, 6 ,CARDINAL,1225
+0, 3 ,CARDINAL,1226
+0, Las rifas de ,WORK_OF_ART,1231
+0, primera ,ORDINAL,1232
+0, septiembre ,DATE,1235
+0, Banco ,ORG,1236
+1, Odebrecht ,ORG,1236
+0, 15 ,DATE,1237
+0, 4 ,CARDINAL,1238
+0, Don Wilson ,PERSON,1239
+0, Liliana ,PERSON,1241
+1, Banco Davivienda ,ORG,1241
+2, Banco ,ORG,1241
+0, Margarita ,PERSON,1242
+1, Davivienda ,ORG,1242
+2, más de 15 días ,DATE,1242
+0, DaviPlata ,ORG,1243
+1, WhatsApp ,ORG,1243
+2, WhatsApp ,ORG,1243
+0, 1 ,CARDINAL,1246
+0, Tolima ,GPE,1248
+1, Cali ,GPE,1248
+2, Davivienda ,PERSON,1248
+0, 10 años ,DATE,1250
+1, más de 15 días ,DATE,1250
+0, Bancolombia ,ORG,1252
+1, Bancolombia ,ORG,1252
+0, 2 ,CARDINAL,1254
+1, 5millones ,MONEY,1254
+0, hoy ,DATE,1255
+0, AlvaroUribeVel ,PERSON,1257
+1, 2 ,CARDINAL,1257
+2, GabrielSantosCD ,PERSON,1257
+3, CeDemocratico ,ORG,1257
+0, WhatsApp ,ORG,1258
+1, Tumaco Nariño ,PERSON,1258
+0, 2 ,CARDINAL,1259
+1, 1 ,MONEY,1259
+2, 235 ,MONEY,1259
+3, 000 pesos ,MONEY,1259
+4, 5 millones ,MONEY,1259
+0, 2 ,CARDINAL,1260
+0, 3 ,CARDINAL,1261
+0, Manuel_P0rtill0 ,PERSON,1262
+0, BancodeBogota ,ORG,1264
+0, mas de 9 ,CARDINAL,1265
+0, 4 ,CARDINAL,1268
+0, 2 ,CARDINAL,1271
+1, 24 horas ,TIME,1271
+0, 3 ,CARDINAL,1276
+0, Avianca ,ORG,1277
+1, HELIODOPTERO ,PERSON,1277
+2, @ ,ORG,1277
+3, PactoCol ,ORG,1277
+4, RoyBarreras ,PERSON,1277
+5, primero ,ORDINAL,1277
+0, Jairo ,PERSON,1280
+0, MacCenter ,ORG,1285
+1, 0 ,CARDINAL,1285
+2, 3 ,CARDINAL,1285
+3, Davivienda ,GPE,1285
+4, Mac Center ,ORG,1285
+5, 1 ,CARDINAL,1285
+0, wilsonariasc ,PERSON,1287
+1," Davivienda 
+ “ Deshacen ",PERSON,1287
+0, 3 ,CARDINAL,1288
+0, JavierHTolosa ,PERSON,1289
+1, Costa Rica ,GPE,1289
+2, Colombia ,GPE,1289
+0, 3 ,CARDINAL,1290
+1, 3 ,CARDINAL,1290
+0, un 25 % ,PERCENT,1292
+1, el año anterior ,DATE,1292
+0, CampoEcamacho ,PERSON,1293
+1, Buenas tardes ,TIME,1293
+2, Campo ,PERSON,1293
+0, Buenas noches ,TIME,1294
+1, Mauro ,PERSON,1294
+2, Davivienda ,ORG,1294
+0, Buenos días ,DATE,1297
+0, Juan ,PERSON,1298
+0, Buenas tardes ,TIME,1300
+0, Buenos días ,DATE,1301
+1, Liliana ,PERSON,1301
+0, Laura A ,PERSON,1302
+0, Carlos ,PERSON,1304
+1, 3 ,CARDINAL,1304
+0, Buenos días ,DATE,1306
+0, Buenas tardes ,TIME,1307
+1, Eduard ,PERSON,1307
+0, Buenos días ,DATE,1308
+1, Rubén ,PERSON,1308
+0, 3 ,CARDINAL,1309
+0, Buenas noches ,TIME,1310
+1, Sebastian ,PERSON,1310
+0, Buenos días ,DATE,1312
+0, Carlos ,PERSON,1313
+0, Buenas noches ,TIME,1314
+0, Laura A ,PERSON,1315
+0, Buenos dias ,DATE,1316
+0, Juan ,PERSON,1319
+1, Buen ,DATE,1319
+0, Buenos días ,DATE,1320
+0, Renaldo ,PERSON,1322
+0, Diana_banana__ ,PERSON,1323
+1, Diana ,PERSON,1323
+0, Buenos días ,DATE,1324
+0, HeinerVelsquez ,PERSON,1325
+1, Buenas tardes ,TIME,1325
+2, Heiner ,PERSON,1325
+0, Bahini_S ,PERSON,1327
+1, Buenas ,TIME,1327
+0, Buenos días ,DATE,1328
+1, Viviana ,PERSON,1328
+0, 2021 ,DATE,1330
+1, Colombia ,GPE,1330
+0, mil años ,DATE,1332
+1, 11 ,CARDINAL,1332
+0, Bolívar ,ORG,1333
+0, 2 ,CARDINAL,1334
+1, 1 ,CARDINAL,1334
+0, Davivienda ,ORG,1336
+1, 4 ,CARDINAL,1336
+0, Davivienda ,PERSON,1337
+1, Jorge_Montreal ,PERSON,1337
+2, 23 ,MONEY,1337
+3, 800 ,MONEY,1337
+4, 3 ,CARDINAL,1337
+0, 2 ,CARDINAL,1338
+1," el día 
+ 3 
+ 9 ",DATE,1338
+0, Davivienda ,ORG,1339
+1, 400 ,CARDINAL,1339
+2, . ,CARDINAL,1339
+3, 000 ,CARDINAL,1339
+4, 1 ,CARDINAL,1339
+5, 1 ,CARDINAL,1339
+0, Banco ,ORG,1340
+1, Davivienda ,ORG,1340
+0, la primera semana de Enero ,DATE,1341
+0, Feria Universitaria y de Crédito EAM ,EVENT,1342
+1, Feria Universitaria y de Crédito EAM ,EVENT,1342
+2, Casa de Estudios ,ORG,1342
+3, 2022 ,DATE,1342
+0, más de 500 ,CARDINAL,1343
+1, Colombia ,GPE,1343
+2, más de 5 meses ,DATE,1343
+3, 3 ,CARDINAL,1343
+0, RappiPay ,ORG,1344
+1, Rappi ,ORG,1344
+2, agosto ,DATE,1344
+3, diciembre ,DATE,1344
+0, 4 ,CARDINAL,1345
+0, Buenos días ,DATE,1346
+1, 1 ,CARDINAL,1346
+0, 2022 ,CARDINAL,1347
+1, el próximo año ,DATE,1347
+0, Bogotá ,GPE,1348
+0, 2 ,CARDINAL,1349
+1, Davivienda ,ORG,1349
+2, 2 ,CARDINAL,1349
+0, Humberto Saenz Marinero ,PERSON,1350
+0, Diana_banana__ ,PERSON,1354
+0, Wilson Arias ,PERSON,1355
+1, 17 ,CARDINAL,1355
+2, primera ,ORDINAL,1355
+3, más de $ 1 . 000 millones de pesos ,MONEY,1355
+0,,ORG,1356
+1, Davivienda ,ORG,1356
+2, 66 ,PERCENT,1356
+3, 7 % ,PERCENT,1356
+4, noviembre del 2020 ,DATE,1356
+5, 19 ,PERCENT,1356
+6, 3 % ,PERCENT,1356
+7, 1 ,CARDINAL,1356
+8, 2 ,CARDINAL,1356
+0, 40 ,CARDINAL,1357
+1, 1 ,CARDINAL,1357
+0, DaviPlata ,ORG,1358
+1, 20 ,DATE,1358
+2, 21 ,DATE,1358
+3, 17 de diciembre ,DATE,1358
+0, Uribe ,PERSON,1362
+1, ICA ,ORG,1362
+0, Davivienda ,PERSON,1363
+1, Jorge_Montreal ,PERSON,1363
+0, Fabiola Duque Góngora ,PERSON,1364
+0, la semana pasada ,DATE,1365
+1, Davivienda ,GPE,1365
+0, Petro ,PERSON,1366
+0, hoy ,DATE,1370
+1, 500 mil ,MONEY,1370
+2, 506 ,CARDINAL,1370
+3, Davivienda ,FAC,1370
+4, calle 26 ,FAC,1370
+5, 68 ,CARDINAL,1370
+0, ConVergenza12 ,WORK_OF_ART,1371
+0, PaulinaBrttz ,ORG,1372
+1, ItslittleAlee ,ORG,1372
+2, BCR ,ORG,1372
+3, Banco Nacional ,ORG,1372
+4, BCAC ,ORG,1372
+5, BAC San José ,ORG,1372
+6, Banco Popular ,ORG,1372
+7, Davivienda ,ORG,1372
+8, 1 ,CARDINAL,1372
+9, 1 ,CARDINAL,1372
+0, NUBank ,ORG,1373
+0, este año ,DATE,1375
+1, más del 10 % ,PERCENT,1375
+0, Colombia ,GPE,1376
+1, Petro ,PERSON,1376
+0, Chivo Wallet ,ORG,1377
+1, Davivienda ,ORG,1377
+2, 600 dolares ,MONEY,1377
+0, más de 6 horas ,TIME,1386
+0, Bancolombia ,GPE,1387
+1, Davivienda ,GPE,1387
+2, Bill Gates ,PERSON,1387
+0, 600 dólares ,MONEY,1389
+0, Aleman ,NORP,1390
+1, Bertolt Brecht ,PERSON,1390
+2, Colombia ,GPE,1390
+0, Davivienda ,ORG,1392
+1, 1 ,CARDINAL,1392
+0, tres ,CARDINAL,1394
+0, Buenos días ,DATE,1395
+0, Bolívar ,PERSON,1396
+0, JuanDRomero ,PERSON,1397
+1, MAndreaNieto ,PERSON,1397
+2, Davivienda ,PERSON,1397
+3, 2 ,CARDINAL,1397
+0, 1 ,CARDINAL,1398
+0, Davivienda ,ORG,1400
+0, 730 ,CARDINAL,1405
+1, . ,CARDINAL,1405
+2, 000 ,CARDINAL,1405
+3, 1 ,CARDINAL,1405
+0, Senador ,PERSON,1406
+1, Arias ,PERSON,1406
+0, dos horas ,TIME,1408
+0, LaLocuraCrece ,PERSON,1412
+1, MillosFCoficial ,PERSON,1412
+0, Nixon ,PERSON,1413
+0, Buenos días ,DATE,1414
+0, Yirley ,PERSON,1415
+0, Hola Nixon ,PERSON,1416
+1, Laura A . ,PERSON,1416
+0, Buenas ,TIME,1419
+0, Laura A ,PERSON,1421
+0, Buenas tardes ,TIME,1422
+1, Juan ,PERSON,1422
+0, David ,PERSON,1423
+0, María ,PERSON,1424
+0, David ,PERSON,1425
+0, Angel_Rivera_N ,PERSON,1426
+1, Hola Angel ,PERSON,1426
+2, Laura ,PERSON,1426
+0, CarlosGrosso1 ,PERSON,1427
+1, Buenas noches ,TIME,1427
+2, Carlos ,PERSON,1427
+0, Buenos días ,DATE,1428
+0, Erikasu_18 ,PERSON,1429
+1, Erika ,PERSON,1429
+0, 19 ,CARDINAL,1430
+1, Nany Pardo ,PERSON,1430
+2, Gustavo Petro ,PERSON,1430
+0, Davivienda ,GPE,1431
+1, 1 ,CARDINAL,1431
+2, 2 ,CARDINAL,1431
+0, LaSihuanaba1 ,PERSON,1432
+1, MendezAzahar ,PERSON,1432
+2, Saenz ,PERSON,1432
+3, Salaverria de Ahuachapan ,PERSON,1432
+4, $ $ $ ,MONEY,1432
+5, 2 ,CARDINAL,1432
+6, 7 ,CARDINAL,1432
+0, la mañana ,TIME,1433
+1, BAC ,ORG,1433
+0, lo Chamorro de Davivienda ,PERSON,1434
+1, 19 ,CARDINAL,1434
+0, dos ,CARDINAL,1435
+0, Davivienda ,ORG,1436
+1, el año 2021 ,DATE,1436
+2, 1 ,CARDINAL,1436
+3, 3 ,CARDINAL,1436
+0, Navidad ,EVENT,1437
+0, Colombia ,GPE,1438
+1, más de 500 ,CARDINAL,1438
+2, Colombia ,GPE,1438
+0, 1 ,CARDINAL,1441
+1, 1 ,CARDINAL,1441
+0, Bancolombia ,ORG,1442
+1, Davivienda ,ORG,1442
+2, Bancolombia ,ORG,1442
+3, Falabella ,ORG,1442
+4, Falabella 10 ,ORG,1442
+0, 18 ,CARDINAL,1443
+0, 4 ,CARDINAL,1445
+1, 1 ,CARDINAL,1445
+0, 4 ,CARDINAL,1446
+0, 1 ,CARDINAL,1447
+1, 3 ,CARDINAL,1447
+0, 4 ,CARDINAL,1448
+1, 2 ,CARDINAL,1448
+2, 1 ,CARDINAL,1448
+3, 2 horas ,TIME,1448
+4, 1 ,CARDINAL,1448
+0, 2021 ,DATE,1450
+1, Colombia ,GPE,1450
+0, mas ,TIME,1451
+1, 26 horas ,TIME,1451
+2, 200 ,CARDINAL,1451
+3, . ,CARDINAL,1451
+4, 000 ,CARDINAL,1451
+0, GarciaColorad0 ,PERSON,1452
+0, 4 meses ,DATE,1456
+0, 5 ,CARDINAL,1457
+1, AVAL ,ORG,1457
+2, Banco de Bogotá ,ORG,1457
+3, Banco de Occidente ,ORG,1457
+4, Banco Popular ,ORG,1457
+5, Banco AV Villas ,ORG,1457
+6, Sarmiento Ángulo ,ORG,1457
+7, Porvenir ,ORG,1457
+0, Davivienda ,ORG,1458
+0, Datacredito ,ORG,1459
+1, 2 ,CARDINAL,1459
+0, una hora ,TIME,1460
+1, 2 ,CARDINAL,1460
+0, 4 ,CARDINAL,1462
+1, 2 ,CARDINAL,1462
+2, 1 ,CARDINAL,1462
+0, JuanBucareli ,PERSON,1463
+1, Buenas noches ,TIME,1463
+2, Juan ,PERSON,1463
+3, 2 ,CARDINAL,1463
+0, Buenos días ,DATE,1466
+0, CosmoDaKitten ,WORK_OF_ART,1467
+1, Buenos días ,DATE,1467
+0, RadiologiaEpige ,WORK_OF_ART,1469
+0, Buenas ,TIME,1470
+0, DuberPaez ,PERSON,1471
+1, Buenas noches ,TIME,1471
+2, Duber ,PERSON,1471
+0, Manu03paez ,PERSON,1472
+1, Buenas noches ,TIME,1472
+2, Manuela ,PERSON,1472
+0, JERobledo ,PERSON,1476
+1, Jorge ,PERSON,1476
+2, Davivienda ,PERSON,1476
+3, Esperanza ,ORG,1476
+4, 3 ,CARDINAL,1476
+5, 14 ,CARDINAL,1476
+0, 2022 ,DATE,1479
+1, 19 % ,PERCENT,1479
+0, WhatsApp ,ORG,1480
+1, 5 minutos ,TIME,1480
+0, 2 ,CARDINAL,1481
+1, 2 ,CARDINAL,1481
+0, 100 ,CARDINAL,1482
+1, Bancolombia ,ORG,1482
+2, Davivienda ,ORG,1482
+3, Aval Group ,ORG,1482
+4, el 65 % ,PERCENT,1482
+5, 17 ,CARDINAL,1482
+6, 8 ,CARDINAL,1482
+7, 10 ,CARDINAL,1482
+0, San Salvador ,GPE,1483
+1, 1 ,CARDINAL,1483
+2, 1 ,CARDINAL,1483
+3, 8 ,CARDINAL,1483
+0, WRadioColombia ,ORG,1484
+0, 1 ,CARDINAL,1486
+1, 1 ,CARDINAL,1486
+0, DaviPlata ,ORG,1489
+1, el día de hoy ,DATE,1489
+0, DavidRacero ,PERSON,1491
+0, tres días ,DATE,1493
+0, mas de 20 ,CARDINAL,1497
+0, Buenas noches ,TIME,1500
+1, Casablanca ,GPE,1500
+2, dos ,CARDINAL,1500
+3, 2 ,CARDINAL,1500
+0,,DATE,1501
+1, DaviPlata ,PRODUCT,1501
+2, SFCsupervisor ,PRODUCT,1501
+0, los 50 MIL ,MONEY,1502
+1, 50 MIL ,MONEY,1502
+0, Banco ,ORG,1503
+1, tod hora ,TIME,1503
+2, dos ,CARDINAL,1503
+0, Arias ,PERSON,1505
+1, Davivienda ,ORG,1505
+2, el Tribunal Arbitral ,ORG,1505
+0, más de 60 ,CARDINAL,1506
+1, cinco ,CARDINAL,1506
+2, 2 ,CARDINAL,1506
+0, Colombia ,GPE,1508
+0, Davivienda ,ORG,1513
+0, Laura ,PERSON,1514
+0, 2 ,CARDINAL,1515
+1, 1 ,CARDINAL,1515
+0, DaviPlata ,ORG,1517
+1, 2 ,CARDINAL,1517
+2, DaviPlata ,ORG,1517
+0, las ,TIME,1518
+1, 12 ,DATE,1518
+2, las 3pm ,TIME,1518
+0, 1 ,CARDINAL,1519
+1, colombianos ,NORP,1519
+2, 8 mil pesos ,MONEY,1519
+3, 4 x 1 mil ,MONEY,1519
+4, Mora ,PERSON,1519
+5, colombianos ,NORP,1519
+6, 3 ,CARDINAL,1519
+0, RamirezcLawyer ,ORG,1520
+1, Bancolombia ,ORG,1520
+0, Marianiniecheve ,PERSON,1521
+1, Iván ,PERSON,1521
+0, Colombia ,GPE,1524
+0, 5 ,CARDINAL,1525
+1, latinoamerica ,LOC,1525
+2, Colombia ,GPE,1525
+3, colombia ,GPE,1525
+0, ElizabethGarrot ,PERSON,1527
+0, Silvia ,PERSON,1530
+0, Rafael ,PERSON,1531
+0, Laura ,PERSON,1532
+0, José ,PERSON,1533
+0, Banco Davivienda ,ORG,1535
+1, Laura A ,PERSON,1535
+0, Buenas noches ,TIME,1536
+1, Silvia ,PERSON,1536
+0, Diego ,PERSON,1537
+1, Davivienda ,LOC,1537
+0, Hola ,PERSON,1538
+0, Buenos días ,DATE,1539
+1, Feliz día ,DATE,1539
+0, Buenos días ,DATE,1540
+0, Perenguena ,PERSON,1542
+1, Laura A ,PERSON,1542
+0, Buenos días ,DATE,1543
+0, Buenos días ,DATE,1544
+1, Leandro ,PERSON,1544
+0, Buenas ,TIME,1546
+1, Alonso ,PERSON,1546
+0, Buenos días ,DATE,1547
+0, Buenos días ,DATE,1550
+0, Buenas tardes ,TIME,1551
+0, Enzo ,PERSON,1552
+0, José ,PERSON,1553
+0, Buenos días ,DATE,1556
+0, Buenos días ,DATE,1557
+0, Buenos días ,DATE,1558
+0, Buenas tardes ,TIME,1559
+0, Ibagué ,GPE,1561
+1, segundo día ,DATE,1561
+2, más de una hora ,TIME,1561
+0, 3 ,CARDINAL,1562
+0, Davivienda ,PERSON,1563
+1, diciembre ,DATE,1563
+0, 4 ,CARDINAL,1565
+0, 15 días ,DATE,1566
+1, Davivienda ,ORG,1566
+2, 6 ,CARDINAL,1566
+0, EduardBernstei1 ,PERSON,1567
+1, FranciaMarquezM ,PERSON,1567
+2, Davivienda ,PERSON,1567
+3, 2 ,CARDINAL,1567
+0, Davivienda ,GPE,1568
+0, WhatsApp ,ORG,1569
+1, 40 millones ,CARDINAL,1569
+2, Davivienda ,ORG,1569
+0, 20 ,CARDINAL,1570
+1, 3 millones ,MONEY,1570
+0, 20 ,CARDINAL,1571
+1, 3 millones ,MONEY,1571
+0, DaviPlata ,ORG,1572
+1, Davivienda ,ORG,1572
+2, 1 ,CARDINAL,1572
+0, 20 ,CARDINAL,1573
+1, 3 millones ,CARDINAL,1573
+0, primera ,ORDINAL,1574
+1, 4 ,CARDINAL,1574
+2, . ,CARDINAL,1574
+3, 000 ,CARDINAL,1574
+0, Davivienda ,ORG,1575
+0, Dunder Mifflin ,ORG,1576
+1, Michael Scott ,PERSON,1576
+2, Pam Beasley ,PERSON,1576
+0, 1 ,CARDINAL,1577
+0, Centro Democrático ,ORG,1578
+0, 1 ,CARDINAL,1580
+0, más de 20 días ,DATE,1581
+0, Bancolombia ,ORG,1582
+1, esta ,TIME,1582
+2, Nequi ,ORG,1582
+3, DaviPlata ,ORG,1582
+4, 3 ,CARDINAL,1582
+5, 1 ,CARDINAL,1582
+6, Davivienda ,ORG,1582
+0, CaracolRadio ,ORG,1583
+1, Karen ,PERSON,1583
+0, estos últimos días ,DATE,1585
+0, Bancolombia ,ORG,1587
+1, Grupo Aval ,ORG,1587
+2, AvVillas ,ORG,1587
+3, Popular ,ORG,1587
+4, Bogotá ,ORG,1587
+5, Occidente ,ORG,1587
+6, Nequi ,ORG,1587
+7, Daviplata ,ORG,1587
+8, Solo ,ORG,1587
+9, Davivienda ,ORG,1587
+0, domingo 19 de diciembre ,DATE,1588
+0, 2 ,CARDINAL,1589
+1, 4 ,CARDINAL,1589
+0, una hora ,TIME,1590
+1, Davivienda ,GPE,1590
+0, uno ,CARDINAL,1591
+1, 1 ,CARDINAL,1591
+2, 1 ,CARDINAL,1591
+0, el día 30 de septiembre ,DATE,1592
+0, 30 años ,DATE,1593
+1, Davivienda ,GPE,1593
+2, Salvador ,PERSON,1593
+3, 2 ,CARDINAL,1593
+0, 2 ,CARDINAL,1595
+1, 2 ,CARDINAL,1595
+0, el viernes de la semana pasada ,DATE,1596
+1, 3MM ,CARDINAL,1596
+2, 2 ,CARDINAL,1596
+0, Hanso_Hasashi_ ,PERSON,1597
+1, 2 ,CARDINAL,1597
+2, todas las semanas ,DATE,1597
+3, 1 ,CARDINAL,1597
+4, 2 ,CARDINAL,1597
+0, día 23 de noviembre ,DATE,1598
+1, la tarde ,TIME,1598
+2, Banco Davivienda ,ORG,1598
+0, un año ,DATE,1600
+1, FiscaliaCol ,ORG,1600
+0, el día de hoy ,DATE,1601
+1, 2 ,CARDINAL,1601
+2, 1 ,CARDINAL,1601
+0, 2 ,CARDINAL,1603
+1, 3 ,CARDINAL,1603
+0, Davivienda ,ORG,1604
+1, Android ,ORG,1604
+2, ayer ,DATE,1604
+0, 2 ,CARDINAL,1605
+0, 1 ,CARDINAL,1606
+1, 2 ,CARDINAL,1606
+0, hoy en día ,DATE,1608
+0, Joacoro ,PERSON,1609
+1, 2 ,CARDINAL,1609
+2, Bancolombia ,ORG,1609
+3, Bancolombia ,ORG,1609
+0, JorgeBuitragoT ,PERSON,1610
+1, 98 ,CARDINAL,1610
+2, 21 ,CARDINAL,1610
+3, Antiguo Davivienda ,FAC,1610
+4, 1 ,CARDINAL,1610
+5, 4 ,CARDINAL,1610
+0, 2 ,CARDINAL,1611
+1, 1 ,CARDINAL,1611
+0, Ayer ,PERSON,1612
+1, Davivienda ,ORG,1612
+0, el día de ayer ,DATE,1613
+1, Tumaco Nariño ,GPE,1613
+0, el ,DATE,1614
+1, 24 medio día ,DATE,1614
+0, 3 ,CARDINAL,1615
+1, 2 ,CARDINAL,1615
+0, 3 ,CARDINAL,1616
+0, 20 ,CARDINAL,1617
+1, 3 millones ,MONEY,1617
+0, ScotiaColpatria ,ORG,1622
+1, 2 días ,DATE,1622
+2, Davivienda ,ORG,1622
+0, este año ,DATE,1623
+0, Asnasalvaje ,ORG,1625
+1, PereiraYPereira ,ORG,1625
+2, Davivienda ,ORG,1625
+0, hace años ,DATE,1626
+0, primera ,ORDINAL,1627
+0, 10 días ,DATE,1630
+0, Cairolinha ,PERSON,1633
+1, Bancolombia ,ORG,1633
+2, Daviplata ,ORG,1633
+3, Bancolombia ,ORG,1633
+4, Davivienda ,ORG,1633
+0, hace ,DATE,1635
+1, 3 días ,DATE,1635
+2, 3 ,CARDINAL,1635
+0, tres mil ,CARDINAL,1636
+0, FranciaMarquezM ,PERSON,1637
+0, Sarmiento Angulo ,ORG,1638
+0, Diego ,PERSON,1639
+1, Alberto ,PERSON,1639
+2, Davivienda ,ORG,1639
+0, el 6 de diciembre del año ,DATE,1645
+0, Don_Mengano ,PERSON,1646
+1, Cairolinha ,PERSON,1646
+2, 2 ,CARDINAL,1646
+0, 2 horas ,TIME,1647
+0, Bancolombia ,ORG,1649
+0, Davivienda ,ORG,1650
+1, diciembre ,DATE,1650
+0, 2 ,CARDINAL,1651
+1, segundo ,ORDINAL,1651
+0, 2 años ,DATE,1653
+0, Davivienda ,ORG,1654
+1, Davivienda ,ORG,1654
+2, Bancolombia ,ORG,1654
+0, esas horas ,TIME,1655
+0, Rappi ,ORG,1656
+0, buenos días ,DATE,1657
+1, Apple Pay ,ORG,1657
+0, 25 de octubre ,DATE,1658
+0, La Plata ,GPE,1659
+1, este año ,DATE,1659
+0, 2 semanas ,DATE,1662
+1, viernes a las 10 pm ,TIME,1662
+2, 5 minutos después ,TIME,1662
+3, 20 ,CARDINAL,1662
+4, 3 millones ,CARDINAL,1662
+0, Banco_AvVillas ,ORG,1664
+1, MovistarPlus ,ORG,1664
+2, Colombia ,GPE,1664
+3, FiscaliaCol ,ORG,1664
+0, los 10 minutos ,TIME,1674
+0, Bancolombia ,ORG,1675
+1, la ,TIME,1675
+2, Bancolombia ,ORG,1675
+0, Bancolombia ,ORG,1676
+1, Bancolombia ,ORG,1676
+0, Hanso_Hasashi_ ,PERSON,1680
+1, 2 ,CARDINAL,1680
+0, 185 ,MONEY,1681
+1, Merliot ,ORG,1681
+0, 30 min ,TIME,1682
+0, Bancolombia ,ORG,1683
+0, Bancolombia ,ORG,1685
+0, Davivienda ,ORG,1686
+1, las 9 : 30 am ,TIME,1686
+2, las 4 : 30 pm ,TIME,1686
+0, Davivienda ,ORG,1688
+1, Bancolombia ,ORG,1688
+2, Bancolombia ,ORG,1688
+3, Davivienda ,ORG,1688
+0, BigDatero ,WORK_OF_ART,1690
+1, Buenos días ,DATE,1690
+0, 2 ,CARDINAL,1691
+1, 1 ,CARDINAL,1691
+0, Buenos días ,DATE,1692
+1, Davivienda ,ORG,1692
+0, Buenos días ,DATE,1693
+0, Juan ,PERSON,1695
+0, Jhan ,PERSON,1696
+0, Buenas ,TIME,1697
+0, David ,PERSON,1698
+0, Camilo ,PERSON,1699
+0, 2 ,CARDINAL,1700
+0, Buenas tardes ,TIME,1702
+1, Estella ,PERSON,1702
+0, Buenos días ,DATE,1704
+0, Cesar ,PERSON,1705
+0, Buenos días ,DATE,1706
+0, Paola ,PERSON,1707
+0, Avianca ,ORG,1708
+1, Sergio ,PERSON,1708
+0, Roberto ,PERSON,1709
+0, Buenos días ,DATE,1710
+1, Diego ,PERSON,1710
+0, Buenos días ,DATE,1713
+0, David ,PERSON,1714
+0, Hanso_Hasashi_ ,PERSON,1715
+1, Buenos días ,DATE,1715
+0, Buenos días ,DATE,1717
+0, Buenos días ,DATE,1718
+0, Buenos días ,DATE,1719
+0, Buenos días ,DATE,1720
+0, Buenos días ,DATE,1721
+0, NataliaBonnett ,PERSON,1722
+1, Buenas noches ,TIME,1722
+2, Natalia ,PERSON,1722
+0, Buenas ,TIME,1723
+1, Iván ,PERSON,1723
+0, Buenas tardes ,TIME,1724
+1, Camilo ,PERSON,1724
+0, Adriana ,PERSON,1725
+0, Buenas tardes ,TIME,1726
+0, Buenos días ,DATE,1727
+0, Buenos días ,DATE,1728
+0, Buenos días ,DATE,1730
+0,,PERSON,1731
+1, Petro ,ORG,1731
+2, 2018 ,DATE,1731
+3, 980 mil ,CARDINAL,1731
+4, $ 531 millones ,MONEY,1731
+5, Argos ,ORG,1731
+6, Sura ,ORG,1731
+7, Seguros Bolívar ,ORG,1731
+8, Davivienda ,ORG,1731
+9, Mineros S . A ,ORG,1731
+10, Antioquia ,GPE,1731
+11, 5 ,CARDINAL,1731
+0, Maria Niny Echeverry ,PERSON,1732
+1, Marianiniecheve ,PERSON,1732
+2, 21 ,CARDINAL,1732
+3, Registraduría ,ORG,1732
+4, Almacenes Olímpica de Barranquilla ,ORG,1732
+5, Alex Char ,PERSON,1732
+6, 1 ,CARDINAL,1732
+7, 13 ,CARDINAL,1732
+8, 20 ,CARDINAL,1732
+0, 1 ,CARDINAL,1733
+1, 25 ,CARDINAL,1733
+0, Davivienda ,PERSON,1734
+1, Davivienda ,PERSON,1734
+0, Davivienda ,ORG,1736
+1, 21 ,CARDINAL,1736
+2, Valentina Davivienda ,PERSON,1736
+0, 1 ,CARDINAL,1737
+1, 3 ,CARDINAL,1737
+0, DaviPlata ,ORG,1739
+1, entre $ 400 y $ 600 ,MONEY,1739
+2, Davivienda ,ORG,1739
+3, 1 ,CARDINAL,1739
+4, 4 ,CARDINAL,1739
+0, JorgeIzquierdo0 ,PERSON,1740
+1, MONYRODRIGUEZOF ,PERSON,1740
+2, Davivienda ,PERSON,1740
+3, 2 ,CARDINAL,1740
+4, 4 ,CARDINAL,1740
+0, unas horas ,TIME,1741
+0, Davivienda ,PERSON,1742
+1, Sergio Prada ,PERSON,1742
+2, 21 ,CARDINAL,1742
+3, Alejandro Gaviria ,PERSON,1742
+0, Daviplata ,ORG,1743
+1, DaviPlata ,ORG,1743
+2, Davivienda ,ORG,1743
+3, dos ,CARDINAL,1743
+4, 3 ,CARDINAL,1743
+0, DaviPlata ,ORG,1744
+1, 21 ,CARDINAL,1744
+2, DaviPlata ,ORG,1744
+0, DaviPlata ,ORG,1746
+1, hace semanas ,DATE,1746
+0, 2 ,CARDINAL,1751
+0, Colombia ,GPE,1752
+1, Navidad ,DATE,1752
+2, año nuevo ,DATE,1752
+3, esta temporada ,DATE,1752
+4, 2 ,CARDINAL,1752
+5, 2 ,CARDINAL,1752
+0, dos minutos ,TIME,1753
+0, 4 ,CARDINAL,1754
+1, Nochebuena ,EVENT,1754
+2, 4 ,CARDINAL,1754
+3, Nochebuena ,EVENT,1754
+0, otras 12 horas ,TIME,1758
+1, más de cinco días ,DATE,1758
+2, 2 ,CARDINAL,1758
+0, Perroacuadros ,PERSON,1759
+1, 19 meses ,DATE,1759
+0, Bancolombia ,ORG,1760
+0, Valentina Davivienda ,PERSON,1762
+1, Amorcito ,PERSON,1762
+0, dos años ,DATE,1763
+0, horas en la mañana ,TIME,1764
+1, 1 ,CARDINAL,1764
+0, 2 ,CARDINAL,1765
+0, este año ,DATE,1767
+1, 3 ,CARDINAL,1767
+0, ChandyReyes ,WORK_OF_ART,1769
+1, Morazán ,LOC,1769
+0, Davivienda ,ORG,1770
+1, Cola & Pola ,ORG,1770
+2, Bavaria ,ORG,1770
+3, Esta Semana ,DATE,1770
+4, 20 al 25 dic ,DATE,1770
+5, Davivienda ,ORG,1770
+6, TikTok ,ORG,1770
+7, Esta Semana ,DATE,1770
+8, 20 al 25 dic ,DATE,1770
+9, Davivienda ,ORG,1770
+0,,ORG,1771
+1, Scotiabank Colpatria ,ORG,1771
+2, Davivienda ,ORG,1771
+3, Coltel ,ORG,1771
+4, Scotiabank Colpatria ,ORG,1771
+5, Davivienda ,ORG,1771
+6, 2 ,CARDINAL,1771
+7, 2 ,CARDINAL,1771
+0,,ORG,1772
+1, Scotiabank Colpatria ,ORG,1772
+2, Davivienda ,ORG,1772
+3, Coltel ,ORG,1772
+4, Scotiabank Colpatria ,ORG,1772
+5, Davivienda ,ORG,1772
+6, 2 ,CARDINAL,1772
+0, Mónica ,PERSON,1773
+1, esta mañana ,TIME,1773
+2, Daviplata ,ORG,1773
+0, Davivienda ,ORG,1774
+1, segundo ,ORDINAL,1774
+0, Chile ,GPE,1775
+1, 1 ,CARDINAL,1775
+0, Lee ,PERSON,1776
+1, DaviPlata ,ORG,1776
+2, DaviPlata ,ORG,1776
+0, Bancolombia ,ORG,1778
+0, Davivienda ,ORG,1780
+1, Davivienda ,ORG,1780
+2, la Calle 73 con Cra 9 ,FAC,1780
+3, Federación ,ORG,1780
+0, Bco_Occidente ,ORG,1781
+1, 4 ,CARDINAL,1781
+0, meses ,DATE,1782
+1, Davivienda ,ORG,1782
+2, 6 ,CARDINAL,1782
+3, 72 mil ,CARDINAL,1782
+0, tres ,CARDINAL,1784
+1, 1 ,CARDINAL,1784
+0, Ginaa1931 ,PERSON,1785
+1, Nequi ,PERSON,1785
+2, Davivienda ,ORG,1785
+3, Bancolombia ,ORG,1785
+0, 4 ,CARDINAL,1786
+0, poco más de 7 años ,DATE,1787
+1, Davivienda ,ORG,1787
+0, 15 millones ,MONEY,1788
+0, Buenos días ,DATE,1790
+1, Sofía ,PERSON,1790
+2, Davivienda ,PERSON,1790
+0, Buenos días ,DATE,1791
+1, Vanessa ,PERSON,1791
+0, Eduardo ,PERSON,1793
+0, Ginnita95 ,PERSON,1794
+1, Buenos días ,DATE,1794
+2, Paola ,PERSON,1794
+3, Davivienda ,PERSON,1794
+0, Jose ,PERSON,1797
+1, Laura A . ,PERSON,1797
+0, Victoria ,PERSON,1798
+0, JaimeMolina ,PERSON,1800
+1, Jaime ,PERSON,1800
+0, Hola Jaime ,PERSON,1801
+0, Buenos días ,DATE,1802
+0, Buenos días ,DATE,1804
+0, 3 ,CARDINAL,1805
+0, JaimeMolina ,PERSON,1806
+1, Buenas tardes ,TIME,1806
+2, Jaime ,PERSON,1806
+0, Hola Jose ,PERSON,1807
+0, Karen ,PERSON,1808
+0, Buenos días ,DATE,1809
+1, Diego ,PERSON,1809
+0, Diego ,PERSON,1810
